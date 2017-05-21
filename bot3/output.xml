@@ -1,0 +1,4821 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="th">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=tis-620" />
+<meta name="generator" content="vBulletin 3.8.8 Beta 4" />
+
+<meta name="keywords" content=" กระทู้คนมีเงินเหลือกินเหลือใช้..ไม่รวยจริงอย่าเข้ามา..! (๔), forum,bbs,discussion,bulletin board" />
+<meta name="description" content="หน้า 3- กระทู้คนมีเงินเหลือกินเหลือใช้..ไม่รวยจริงอย่าเข้ามา..! (๔) สะพานบุญ" />
+
+
+<!-- CSS Stylesheet -->
+<style type="text/css" id="vbulletin_css">
+/**
+* vBulletin 3.8.7 CSS
+* Style: 'ora'; Style ID: 2
+*/
+body
+{
+	background: transparent url(http://www.watthakhanun.com/webboard/images/ora_bg.gif);
+	color: #000000;
+	font: 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+		margin: 0px;
+		padding: 0px;
+}
+a:link, body_alink
+{
+	color: #8F712F;
+}
+a:visited, body_avisited
+{
+	color: #8F712F;
+}
+a:hover, a:active, body_ahover
+{
+	color: #411222;
+}
+.page
+{
+	background: transparent;
+	color: #000000;
+}
+td, th, p, li
+{
+	font: 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tborder
+{
+	background: #998049;
+	color: #000000;
+	border: 1px solid #B9974F;
+}
+.tcat
+{
+	background: transparent url(http://www.watthakhanun.com/webboard/images/ora_catbg.gif);
+	color: #996600;
+	font: bold 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tcat a:link, .tcat_alink
+{
+	color: #996600;
+	text-decoration: none;
+}
+.tcat a:visited, .tcat_avisited
+{
+	color: #996600;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active, .tcat_ahover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+.thead
+{
+	background: #996600 url(images/ora/ora_headbg.gif) repeat-x top left;
+	color: #FBDA95;
+	font: bold 16px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead a:link, .thead_alink
+{
+	color: #FBDA95;
+}
+.thead a:visited, .thead_avisited
+{
+	color: #FBDA95;
+}
+.thead a:hover, .thead a:active, .thead_ahover
+{
+	color: #0000FF;
+}
+.tfoot
+{
+	background: #996600 url(images/ora/ora_headbg.gif) repeat-x top left;
+	color: #FBDA95;
+}
+.tfoot a:link, .tfoot_alink
+{
+	color: #FBDA95;
+}
+.tfoot a:visited, .tfoot_avisited
+{
+	color: #FBDA95;
+}
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover
+{
+	color: #FFFFFF;
+}
+.alt1, .alt1Active
+{
+	background: #FFFEFD;
+	color: #000000;
+}
+.alt1 a:hover, .alt1 a:active, .alt1_ahover, .alt1Active a:hover, .alt1Active a:active, .alt1Active_ahover
+{
+	color: #FF0000;
+}
+.alt2, .alt2Active
+{
+	background: #F2E6CB;
+	color: #000000;
+}
+.alt2 a:hover, .alt2 a:active, .alt2_ahover, .alt2Active a:hover, .alt2Active a:active, .alt2Active_ahover
+{
+	color: #FF0000;
+}
+.inlinemod
+{
+	background: #FFFFCC;
+	color: #000000;
+}
+.wysiwyg
+{
+	background: #F5F5FF;
+	color: #000000;
+	font: 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	margin: 5px 10px 10px 10px;
+	padding: 0px;
+}
+.wysiwyg a:link, .wysiwyg_alink
+{
+	color: #22229C;
+}
+.wysiwyg a:visited, .wysiwyg_avisited
+{
+	color: #22229C;
+}
+.wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover
+{
+	color: #FF4400;
+}
+textarea, .bginput
+{
+	font: 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.bginput option, .bginput optgroup
+{
+	font-size: 15pt;
+	font-family: verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.button
+{
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+select
+{
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+option, optgroup
+{
+	font-size: 16px;
+	font-family: verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.smallfont
+{
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.time
+{
+	color: #CC6600;
+}
+.navbar
+{
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.highlight
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+.fjsel
+{
+	background: #F2E6CB;
+	color: #663300;
+}
+.fjdpth0
+{
+	background: #F7F7F7;
+	color: #000000;
+}
+.panel
+{
+	background: #FFFEFD;
+	color: #000000;
+	padding: 10px;
+	border: 2px outset;
+}
+.panelsurround
+{
+	background: #F2E6CB;
+	color: #000000;
+}
+legend
+{
+	color: #663300;
+	font: 16px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.vbmenu_control
+{
+	background: #FBDA95 url(images/ora/ora_catbg.gif) repeat-x top left;
+	color: #B69D66;
+	font: bold 16px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+}
+.vbmenu_control a:link, .vbmenu_control_alink
+{
+	color: #998049;
+	text-decoration: none;
+}
+.vbmenu_control a:visited, .vbmenu_control_avisited
+{
+	color: #998049;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.vbmenu_popup
+{
+	background: #F9E1C5;
+	color: #000000;
+	border: 1px solid #B9974F;
+}
+.vbmenu_option
+{
+	background: #F2E6CB;
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link, .vbmenu_option_alink
+{
+	text-decoration: none;
+}
+.vbmenu_option a:visited, .vbmenu_option_avisited
+{
+	text-decoration: none;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover
+{
+	text-decoration: none;
+}
+.vbmenu_hilite
+{
+	background: #FFFEFD;
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link, .vbmenu_hilite_alink
+{
+	text-decoration: none;
+}
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited
+{
+	text-decoration: none;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover
+{
+	text-decoration: none;
+}
+/* ***** styling for 'big' usernames on postbit etc. ***** */
+.bigusername { font-size: 16pt; }
+
+/* ***** small padding on 'thead' elements ***** */
+td.thead, th.thead, div.thead { padding: 4px; }
+
+/* ***** basic styles for multi-page nav elements */
+.pagenav a { text-decoration: none; }
+.pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** de-emphasized text */
+.shade, a.shade:link, a.shade:visited { color: #777777; text-decoration: none; }
+a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
+.tcat .shade, .thead .shade, .tfoot .shade { color: #DDDDDD; }
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { margin-bottom: 6px; }
+.fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
+.headerwrap {
+	background-color: #C5A35A;
+	background-image: url(images/ora/ora_headerbg.gif);
+	background-repeat: repeat-x;
+	height: 121px;
+}
+.cbg {
+	background-color: #C5A35A;
+	background-image: url(images/ora/ora_cbg.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 400px;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_important.css?v=387" />
+
+
+<!-- / CSS Stylesheet -->
+
+<script type="text/javascript" src="clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=388"></script>
+<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=388"></script>
+<script type="text/javascript">
+<!--
+var SESSIONURL = "s=b5b962740e955534ae17d17dbc80cf71&";
+var SECURITYTOKEN = "guest";
+var IMGDIR_MISC = "images/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+</script>
+<script type="text/javascript" src="clientscript/vbulletin_global.js?v=388"></script>
+
+
+<script type="text/javascript" src="clientscript/post_thanks.js"></script>
+<script type="text/javascript" src="clientscript/post_thanks_collapse.js"></script>
+	<title> กระทู้คนมีเงินเหลือกินเหลือใช้..ไม่รวยจริงอย่าเข้ามา..! (๔) - หน้า 3 - กระดานสนทนาวัดท่าขนุน</title>
+	<script type="text/javascript" src="clientscript/vbulletin_post_loader.js?v=388"></script>
+	<style type="text/css" id="vbulletin_showthread_css">
+	<!--
+	
+	#links div { white-space: nowrap; }
+	#links img { vertical-align: middle; }
+	-->
+	</style>
+</head>
+<body onload="">
+<!-- logo -->
+<div align="center">
+<a name="top"></a>
+	<td align="" valign="top"><a href="index.php?s=b5b962740e955534ae17d17dbc80cf71"><img src="images/misc/logo.gif" border="0" alt="กระดานสนทนาวัดท่าขนุน" /></a></td>
+</div>
+
+
+
+
+</tr>
+</table>
+<!-- /logo -->
+
+<!-- content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+
+
+
+
+<br />
+
+<!-- breadcrumb, login, pm info -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="alt1" width="100%">
+		
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tr valign="bottom">
+				<td><a href="#" onclick="history.back(1); return false;"><img src="images/misc/navbits_start.gif" alt="กลับไป" border="0" /></a></td>
+				<td>&nbsp;</td>
+				<td width="100%"><span class="navbar"><a href="index.php?s=b5b962740e955534ae17d17dbc80cf71" accesskey="1">กระดานสนทนาวัดท่าขนุน</a></span> 
+	<span class="navbar">&gt; <a href="forumdisplay.php?s=b5b962740e955534ae17d17dbc80cf71&amp;f=1">ข่าวประชาสัมพันธ์</a></span>
+
+
+	<span class="navbar">&gt; <a href="forumdisplay.php?s=b5b962740e955534ae17d17dbc80cf71&amp;f=64">สะพานบุญ</a></span>
+
+</td>
+			</tr>
+			<tr>
+				<td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/webboard/showthread.php?t=5230&amp;page=3"><img class="inlineimg" src="images/misc/navbits_finallink_ltr.gif" alt="โหลดหน้านี้ใหม่" border="0" /></a> <strong>
+	 กระทู้คนมีเงินเหลือกินเหลือใช้..ไม่รวยจริงอย่าเข้ามา..! (๔)
+
+</strong></td>
+			</tr>
+			</table>
+		
+	</td>
+
+	<td class="alt2" nowrap="nowrap" style="padding:0px">
+		<!-- login form -->
+		<form action="login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=388"></script>
+		<table cellpadding="0" cellspacing="3" border="0">
+		<tr>
+			<td class="smallfont" style="white-space: nowrap;"><label for="navbar_username">User Name</label></td>
+			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';" /></td>
+			<td class="smallfont" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c" />จดจำ ?</label></td>
+		</tr>
+		<tr>
+			<td class="smallfont"><label for="navbar_password">Password</label></td>
+			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102" /></td>
+			<td><input type="submit" class="button" value="เข้าระบบ" tabindex="104" title="ใส่ชื่อผู้ใช้และรหัสผ่านในกล่องสำหรับเข้าระบบ หรือกดที่ปุ่ม 'สมัครสมาชิก(register)' เพื่อสร้างรายละเอียดส่วนตัวใหม่" accesskey="s" /></td>
+		</tr>
+		</table>
+		<input type="hidden" name="s" value="b5b962740e955534ae17d17dbc80cf71" />
+		<input type="hidden" name="securitytoken" value="guest" />
+		<input type="hidden" name="do" value="login" />
+		<input type="hidden" name="vb_login_md5password" />
+		<input type="hidden" name="vb_login_md5password_utf" />
+		</form>
+		<!-- / login form -->
+	</td>
+
+</tr>
+</table>
+<!-- / breadcrumb, login, pm info -->
+
+<!-- nav buttons bar -->
+<div class="tborder" style="padding:1px; border-top-width:0px">
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+	<tr align="center">
+		
+		
+			<td class="vbmenu_control"><a href="register.php?s=b5b962740e955534ae17d17dbc80cf71" rel="nofollow">สมัครสมาชิก</a></td>
+		
+		
+		<td class="vbmenu_control"><a rel="help" href="faq.php?s=b5b962740e955534ae17d17dbc80cf71" accesskey="5">คู่มือการใช้</a></td>
+		
+			
+			
+		
+		<td class="vbmenu_control"><a href="calendar.php?s=b5b962740e955534ae17d17dbc80cf71">ปฏิทิน</a></td>
+		
+			
+				<td class="vbmenu_control"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71" accesskey="4">ค้นหา</a></td>
+				
+				<td class="vbmenu_control"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=getdaily" accesskey="2">ข้อความใหม่วันนี้</a></td>
+				
+			
+			<td class="vbmenu_control"><a href="forumdisplay.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=markread&amp;markreadhash=guest" rel="nofollow">ทำสัญลักษณ์ว่าอ่านแล้ว</a></td>
+			
+		
+		
+		
+		</tr>
+	</table>
+</div>
+<!-- / nav buttons bar -->
+
+<br />
+
+
+<form action="profile.php?do=dismissnotice" method="post" id="notices">
+<input type="hidden" name="do" value="dismissnotice" />
+<input type="hidden" name="securitytoken" value="guest" />
+<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+<input type="hidden" name="url" value="/webboard/showthread.php?t=5230&amp;page=3" />
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+	<tr>
+		<td class="thead">Notices</td>
+	</tr>
+	<tr>
+		<td class="alt1">
+			<div class="navbar_notice" id="navbar_notice_4">
+	<div style="text-align:center;font-weight: bold;color: Red">เพื่อความรวดเร็วในการอ่านสำหรับผู้ที่พิการทางสายตา ท่านสามารถเข้าเว็บวัดท่าขนุนโดยใช้โปรแกรมตาทิพย์ที่ลิงค์นี้<br> 
+<a href="http://www.watthakhanun.com/webboard/archive">http://www.watthakhanun.com/webboard/archive</a>
+</div>
+</div><div class="navbar_notice" id="navbar_notice_2">
+	<div style="text-align:center;font-weight: bold;color: Red">
+๑&#1769;&#1758;&#1769;๑ ขอความร่วมมือสมาชิกทุกท่าน โปรดตั้งชื่อเป็นภาษาไทย ๑&#1769;&#1758;&#1769;๑<br>ช่วยกันใช้ภาษาไทยให้ถูกต้อง และโปรดหลีกเลี่ยงการนำภาษาพูดมาใช้เป็นภาษาเขียนด้วย</div>
+</div><div class="navbar_notice" id="navbar_notice_3">
+	<span style="color:darkorange;"><Marquee>&#9733;กำหนดการ:
+ การรับสังฆทานที่บ้านวิริยบารมีประจำเดือนพฤศจิกายน วันศุกร์-เสาร์-อาทิตย์ที่ ๔-๕-๖ พ.ย. ๒๕๕๙&#9733; &#9733;กรุณาอ่านกฎ กติกา มารยาท ก่อนการใช้กระดานสนทนา&#9733; &#9733;สมาชิกใหม่ทุกท่านโปรดตั้งชื่อเข้าใช้งานเป็นภาษาไทย&#9733; </Marquee></span>
+</div>
+		</td>
+	</tr>
+	</table>
+	<br />
+</form>
+
+
+
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+	<tr>
+		<td class="alt1" width="100%"><strong>สะพานบุญ</strong> <span class="smallfont">สำหรับงานบอกบุญของเว็บวัดท่าขนุนเท่านั้น</span></td>
+	</tr>
+	</table>
+	<br />
+
+
+
+
+
+
+<!-- advertising -->
+
+
+
+
+
+
+
+
+<a name="poststop" id="poststop"></a>
+
+<!-- controls above postbits -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-bottom:3px">
+<tr valign="bottom">
+	
+		<td class="smallfont"><a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;noquote=1&amp;p=175193" rel="nofollow"><img src="images/buttons/reply.gif" alt="ตอบ" border="0" /></a></td>
+	
+	<td align="right"><div class="pagenav" align="right">
+<table class="tborder" cellpadding="3" cellspacing="1" border="0">
+<tr>
+	<td class="vbmenu_control" style="font-weight:normal"><font color="#FFFFFF">หน้าที่ 3 จากทั้งหมด 3 หน้า</font></td>
+	
+	<td class="alt1"><a rel="prev" class="smallfont" href="showthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230&amp;page=2" title="หน้าที่ผ่านมา - Results 21 to 40 of 56">&lt;</a></td>
+	<td class="alt1"><a class="smallfont" href="showthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230" title="แสดงผล 1 to 20 of 56">1</a></td><td class="alt1"><a class="smallfont" href="showthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230&amp;page=2" title="แสดงผล 21 to 40 of 56">2</a></td>	<td class="alt2"><span class="smallfont" title="Showing results 41 to 56 of 56"><strong>3</strong></span></td>
+ 
+	
+	
+	
+</tr>
+</table>
+</div></td>
+</tr>
+</table>
+<!-- / controls above postbits -->
+
+<!-- toolbar -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center" style="border-bottom-width:0px">
+<tr>
+	<td class="tcat" width="100%">
+		<div class="smallfont">
+		
+		&nbsp;
+		</div>
+	</td>
+	<td class="vbmenu_control" id="threadtools" nowrap="nowrap">
+		<a href="#goto_threadtools">คำสั่งเพิ่มเติม</a>
+		
+	</td>
+	
+	
+	
+
+	
+
+</tr>
+</table>
+<!-- / toolbar -->
+
+
+
+<!-- end content table -->
+
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+<!-- / end content table -->
+
+
+
+
+
+<div id="posts"><!-- post #175193 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175193" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175193" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175193&amp;postcount=41" target="new" rel="nofollow" id="postcount175193" name="41"><strong>41</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175193"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 11:46
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175193">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175193", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175193_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175193">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175193">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25260&amp;stc=1&amp;d=1475642776" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๒๙ ลูกอมผงวิเศษยันต์เกราะเพชร หลวงพ่อปาน วัดบางนมโค (๘) ราคา ๘,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณพิพัฒน์ เลิศโกวิทย์ จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25260&amp;d=1475642774">หลวงพ่อปาน วัดบางนมโค ๐๙.jpg</a> (65.5 KB, 732 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">12:04</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175193" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175193"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 67 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175193"><center><a href="#" onclick="post_thanks_collapse(175193); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175193 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175193_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175193 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175193 --><!-- post #175208 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175208" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175208" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175208&amp;postcount=42" target="new" rel="nofollow" id="postcount175208" name="42"><strong>42</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175208"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 11:49
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175208">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175208", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175208_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175208">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175208">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25261&amp;stc=1&amp;d=1475642933" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๐ ลูกอมผงวิเศษยันต์เกราะเพชร หลวงพ่อปาน วัดบางนมโค (๙) ราคา ๑๐,๐๐๐ บาท<br />
+<br />
+*** พิเศษ...ลูกนี้เป็นผงเหลือจากการอุดพระ มีซีเมนต์ผสม จึงเป็นสีเทา***</font></font></b><br />
+<b><font size="6"><font color="red">คุณธีรภัทร จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25261&amp;d=1475642931">หลวงพ่อปาน วัดบางนมโค ๑๐.jpg</a> (61.8 KB, 916 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">12:06</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175208" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175208"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 74 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175208"><center><a href="#" onclick="post_thanks_collapse(175208); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175208 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175208_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175208 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175208 --><!-- post #175229 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175229" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175229" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175229&amp;postcount=43" target="new" rel="nofollow" id="postcount175229" name="43"><strong>43</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175229"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 11:51
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175229">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175229", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175229_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175229">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175229">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25262&amp;stc=1&amp;d=1475643045" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๑ ลูกอมผงวิเศษยันต์เกราะเพชร หลวงพ่อปาน วัดบางนมโค (๑๐) ราคา ๑๐,๐๐๐ บาท<br />
+<br />
+*** พิเศษ...ลูกนี้เป็นผงเหลือจากการอุดพระ มีซีเมนต์ผสม จึงเป็นสีเทา***</font></font></b><br />
+<b><font size="6"><font color="red">คุณมะละกอ จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25262&amp;d=1475643044">หลวงพ่อปาน วัดบางนมโค ๑๑.jpg</a> (64.5 KB, 915 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">12:08</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175229" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175229"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 76 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175229"><center><a href="#" onclick="post_thanks_collapse(175229); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175229 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175229_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175229 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175229 --><!-- post #175278 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175278" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175278" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175278&amp;postcount=44" target="new" rel="nofollow" id="postcount175278" name="44"><strong>44</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175278"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 16:07
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175278">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175278", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175278_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175278">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175278">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25263&amp;stc=1&amp;d=1475658413" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๒ ลูกอมผงดำเจ็ดพญาช้างสาร หลวงพ่อดิ่ง วัดบางวัว (๑) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณกฤตภาส จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25263&amp;d=1475658410">หลวงพ่อดิ่ง ๐๓.jpg</a> (59.3 KB, 634 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">17:54</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175278" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175278"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 59 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175278"><center><a href="#" onclick="post_thanks_collapse(175278); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175278 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175278_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175278 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175278 --><!-- post #175280 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175280" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175280" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175280&amp;postcount=45" target="new" rel="nofollow" id="postcount175280" name="45"><strong>45</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175280"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 16:08
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175280">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175280", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175280_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175280">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175280">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25264&amp;stc=1&amp;d=1475658470" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๓ ลูกอมผงดำเจ็ดพญาช้างสาร หลวงพ่อดิ่ง วัดบางวัว (๒) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณกฤตภาส จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25264&amp;d=1475658467">หลวงพ่อดิ่ง ๐๔.jpg</a> (62.2 KB, 622 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">17:55</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175280" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175280"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 64 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175280"><center><a href="#" onclick="post_thanks_collapse(175280); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175280 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175280_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175280 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175280 --><!-- post #175330 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175330" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175330" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175330&amp;postcount=46" target="new" rel="nofollow" id="postcount175330" name="46"><strong>46</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175330"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 19:49
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175330">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175330", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175330_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175330">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175330">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25267&amp;stc=1&amp;d=1475671773" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๔ ลูกอมผงดำเจ็ดพญาช้างสาร หลวงพ่อดิ่ง วัดบางวัว (๓) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณทะเล จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25267&amp;d=1475671771">หลวงพ่อดิ่ง ๐๕.jpg</a> (64.1 KB, 184 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:15</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175330" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175330"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 34 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175330"><center><a href="#" onclick="post_thanks_collapse(175330); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175330 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175330_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175330 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175330 --><!-- post #175338 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175338" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175338" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175338&amp;postcount=47" target="new" rel="nofollow" id="postcount175338" name="47"><strong>47</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175338"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 19:51
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175338">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175338", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175338_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175338">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175338">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25268&amp;stc=1&amp;d=1475671835" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๕ ลูกอมผงดำเจ็ดพญาช้างสาร หลวงพ่อดิ่ง วัดบางวัว (๔) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">ท่านเถรี จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25268&amp;d=1475671833">หลวงพ่อดิ่ง ๐๖.jpg</a> (68.2 KB, 185 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:14</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175338" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175338"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 31 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175338"><center><a href="#" onclick="post_thanks_collapse(175338); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175338 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175338_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175338 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175338 --><!-- post #175348 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175348" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175348" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175348&amp;postcount=48" target="new" rel="nofollow" id="postcount175348" name="48"><strong>48</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175348"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 19:53
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175348">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175348", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175348_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175348">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175348">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25269&amp;stc=1&amp;d=1475671969" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๖ ลูกอมผงธูปสะท้านปฐพี หลวงพ่อพริ้ง วัดบางปะกอก (๑) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณทะเล จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25269&amp;d=1475671967">หลวงพ่อพริ้ง ๐๑.jpg</a> (64.6 KB, 180 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:13</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175348" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175348"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 33 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175348"><center><a href="#" onclick="post_thanks_collapse(175348); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175348 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175348_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175348 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175348 --><!-- post #175355 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175355" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175355" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175355&amp;postcount=49" target="new" rel="nofollow" id="postcount175355" name="49"><strong>49</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175355"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 19:54
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175355">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175355", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175355_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175355">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175355">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25270&amp;stc=1&amp;d=1475672036" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๗ ลูกอมผงธูปสะท้านปฐพี หลวงพ่อพริ้ง วัดบางปะกอก (๒) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณนิวัฒน์ จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25270&amp;d=1475672034">หลวงพ่อพริ้ง ๐๒.jpg</a> (68.0 KB, 183 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:12</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175355" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175355"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 34 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175355"><center><a href="#" onclick="post_thanks_collapse(175355); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175355 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175355_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175355 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175355 --><!-- post #175367 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175367" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175367" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175367&amp;postcount=50" target="new" rel="nofollow" id="postcount175367" name="50"><strong>50</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175367"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 19:56
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175367">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175367", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175367_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175367">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175367">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25271&amp;stc=1&amp;d=1475672146" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๘ ลูกอมผงว่านยา หลวงพ่อไล้ วัดเขายี่สาร (๑) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณประเทือง จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25271&amp;d=1475672144">หลวงพ่อไล้ ๐๑.jpg</a> (69.5 KB, 184 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:11</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175367" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175367"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 32 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175367"><center><a href="#" onclick="post_thanks_collapse(175367); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175367 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175367_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175367 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175367 --><!-- post #175380 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175380" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175380" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175380&amp;postcount=51" target="new" rel="nofollow" id="postcount175380" name="51"><strong>51</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175380"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 19:57
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175380">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175380", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175380_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175380">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175380">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25272&amp;stc=1&amp;d=1475672205" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๓๙ ลูกอมผงว่านยา หลวงพ่อไล้ วัดเขายี่สาร (๒) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณกฤตภาส จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25272&amp;d=1475672203">หลวงพ่อไล้ ๐๒.jpg</a> (72.1 KB, 181 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:10</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175380" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175380"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 33 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175380"><center><a href="#" onclick="post_thanks_collapse(175380); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175380 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175380_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175380 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175380 --><!-- post #175391 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175391" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175391" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175391&amp;postcount=52" target="new" rel="nofollow" id="postcount175391" name="52"><strong>52</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175391"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 19:58
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175391">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175391", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175391_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175391">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175391">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25273&amp;stc=1&amp;d=1475672286" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๔๐ ลูกอมผงว่านยา หลวงพ่อไล้ วัดเขายี่สาร (๓) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณทะเล จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25273&amp;d=1475672284">หลวงพ่อไล้ ๐๓.jpg</a> (73.3 KB, 187 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:09</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175391" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175391"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 35 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175391"><center><a href="#" onclick="post_thanks_collapse(175391); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175391 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175391_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175391 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175391 --><!-- post #175404 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175404" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175404" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175404&amp;postcount=53" target="new" rel="nofollow" id="postcount175404" name="53"><strong>53</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175404"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 19:59
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175404">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175404", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175404_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175404">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175404">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25274&amp;stc=1&amp;d=1475672358" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๔๑ ลูกอมผงว่านยา หลวงพ่อไล้ วัดเขายี่สาร (๔) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณกฤตภาส จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25274&amp;d=1475672356">หลวงพ่อไล้ ๐๔.jpg</a> (70.9 KB, 190 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:07</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175404" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175404"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 35 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175404"><center><a href="#" onclick="post_thanks_collapse(175404); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175404 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175404_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175404 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175404 --><!-- post #175419 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175419" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175419" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175419&amp;postcount=54" target="new" rel="nofollow" id="postcount175419" name="54"><strong>54</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175419"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 20:00
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175419">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175419", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175419_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175419">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175419">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25275&amp;stc=1&amp;d=1475672432" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๔๒ ลูกอมผงว่านยา หลวงพ่อไล้ วัดเขายี่สาร (๕) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณกิตติธัช จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25275&amp;d=1475672430">หลวงพ่อไล้ ๐๕.jpg</a> (74.6 KB, 187 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:06</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175419" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175419"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 36 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175419"><center><a href="#" onclick="post_thanks_collapse(175419); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175419 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175419_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175419 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175419 --><!-- post #175435 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175435" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post175435" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175435&amp;postcount=55" target="new" rel="nofollow" id="postcount175435" name="55"><strong>55</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175435"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 20:01
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175435">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175435", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175435_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175435">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175435">
+			
+			<div align="center"><img src="http://www.watthakhanun.com/webboard/attachment.php?attachmentid=25276&amp;stc=1&amp;d=1475672503" border="0" alt="" /><br />
+<br />
+<b><font size="5"><font color="Blue">รายการที่ ๔๓ ลูกอมผงว่านยา หลวงพ่อไล้ วัดเขายี่สาร (๖) ราคา ๗,๐๐๐ บาท</font></font></b><br />
+<b><font size="6"><font color="red">คุณนิวัฒน์ จอง</font></font></b></div>
+		</div>
+		<!-- / message -->
+
+		
+		<!-- attachments -->
+			<div style="padding:6px">
+
+			
+
+			
+
+			
+				<fieldset class="fieldset">
+					<legend>รูป</legend>
+					<table cellpadding="0" cellspacing="3" border="0">
+					<tr>
+	<td><img class="inlineimg" src="images/attach/jpg.gif" alt="ชนิดของไฟล์: jpg" width="16" height="16" border="0" style="vertical-align:baseline" /></td>
+	<td><a href="attachment.php?s=b5b962740e955534ae17d17dbc80cf71&amp;attachmentid=25276&amp;d=1475672501">หลวงพ่อไล้ ๐๖.jpg</a> (73.4 KB, 190 views)</td>
+</tr>
+					</table>
+					</fieldset>
+			
+
+			
+
+			
+
+			</div>
+		<!-- / attachments -->
+		
+
+		
+		
+
+		
+
+		
+
+		
+		<!-- edit note -->
+			<div class="smallfont">
+				<hr size="1" style="color:#998049; background-color:#998049" />
+				<em>
+					
+						แก้ไขครั้งสุดท้ายโดย สุธรรม : วันนี้ เมื่อ <span class="time">20:04</span>
+					
+					
+				</em>
+			</div>
+		<!-- / edit note -->
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175435" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175435"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 38 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175435"><center><a href="#" onclick="post_thanks_collapse(175435); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175435 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175435_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175435 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175435 --><!-- post #175455 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit175455" style="padding:0px 0px 6px 0px">
+	
+
+
+
+<table class="tborder" id="post175455" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=b5b962740e955534ae17d17dbc80cf71&amp;p=175455&amp;postcount=56" target="new" rel="nofollow" id="postcount175455" name="56"><strong>56</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post175455"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 20:18
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><img src="image.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562&amp;dateline=1286533948" width="150" height="113" alt="สุธรรม's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_175455">
+					
+					<a class="bigusername" href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562"><span style="color: Darkorange;font-weight: bold;">สุธรรม</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สุธรรม is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_175455", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้ตรวจการณ์เว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Jun 2009</div>
+					
+					
+					<div>
+						ข้อความ: 2,206
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 86,401</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 412,186 ครั้ง ใน 5,492 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_175455_562"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สุธรรม is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_175455">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_175455">
+			
+			<img src="images/smilies/A4672615-5.gif" border="0" alt="" title="A4672615-5.gif" class="inlineimg" /> <font size="5"><font color="Blue"><b>โปรดอ่านกติกาในกระทู้แรกและทำตามอย่างเคร่งครัดนะครับ <font color="Red">ใครพลาดโดนตัดสิทธิ์ทันที..!</font> ท่านใดไปร่วมงานกฐิน ถ้าโอนเงินทัน ให้ไปรับวัตถุมงคลกับพระอาจารย์ได้เลยครับ</b></font></font>
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;p=175455" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_175455"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 48 คน ได้กล่าว "อนุโมทนา" กับคุณ สุธรรม ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_175455"><center><a href="#" onclick="post_thanks_collapse(175455); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 175455 popup menu -->
+<div class="vbmenu_popup" id="postmenu_175455_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สุธรรม</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=562">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newpm&amp;u=562" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=finduser&amp;u=562" rel="nofollow">หาข้อความทั้งหมดของคุณ สุธรรม</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 175455 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #175455 --><div id="lastpost"></div></div>
+
+<!-- start content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+<!-- / start content table -->
+
+<!-- controls below postbits -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:-3px">
+<tr valign="top">
+	
+		<td class="smallfont"><a href="newreply.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=newreply&amp;noquote=1&amp;p=175455" rel="nofollow"><img src="images/buttons/reply.gif" alt="ตอบ" border="0" /></a></td>
+	
+	
+		<td align="right"><div class="pagenav" align="right">
+<table class="tborder" cellpadding="3" cellspacing="1" border="0">
+<tr>
+	<td class="vbmenu_control" style="font-weight:normal"><font color="#FFFFFF">หน้าที่ 3 จากทั้งหมด 3 หน้า</font></td>
+	
+	<td class="alt1"><a rel="prev" class="smallfont" href="showthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230&amp;page=2" title="หน้าที่ผ่านมา - Results 21 to 40 of 56">&lt;</a></td>
+	<td class="alt1"><a class="smallfont" href="showthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230" title="แสดงผล 1 to 20 of 56">1</a></td><td class="alt1"><a class="smallfont" href="showthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230&amp;page=2" title="แสดงผล 21 to 40 of 56">2</a></td>	<td class="alt2"><span class="smallfont" title="Showing results 41 to 56 of 56"><strong>3</strong></span></td>
+ 
+	
+	
+	
+</tr>
+</table>
+</div>
+		
+		</td>
+	
+</tr>
+</table>
+<!-- / controls below postbits -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- next / previous links -->
+	<br />
+	<div class="smallfont" align="center">
+		<strong>&laquo;</strong>
+			<a href="showthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230&amp;goto=nextoldest" rel="nofollow">กระทู้ที่แล้วมา</a>
+			|
+			<a href="showthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230&amp;goto=nextnewest" rel="nofollow">กระทู้ถัดไป</a>
+		<strong>&raquo;</strong>
+	</div>
+<!-- / next / previous links -->
+
+
+
+<!-- currently active users -->
+	<br />
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+	<tr>
+		<td class="tcat" colspan="2">
+			ขณะนี้มีคนกำลังดูกระทู้นี้อยู่ : 13 คน <span class="normal">( เป็นสมาชิก 11 คน  และ บุคคลทั่วไป 2 คน )</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="alt1" colspan="2">
+			<span class="smallfont"><a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=3626"><span style="color: DarkGoldenrod;font-weight: bold;">กฤตภาส</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=5174"><span style="font-weight: bold;">กิตติธัช</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=7343"><span style="font-weight: bold;">ดาริกา</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=675"><span style="color: DarkGoldenrod;font-weight: bold;">เด็กแปดริ้ว</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=74"><span style="font-weight: bold;">ตาตั้ม</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=8137"><span style="font-weight: bold;">ธนาเดช</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=1554"><span style="color: DarkGoldenrod;font-weight: bold;">ประเทือง</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=3225"><span style="font-weight: bold;">ประพจน์</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=151"><span style="font-weight: bold;">พระอุเบกขา</span></a>, <a href="member.php?s=b5b962740e955534ae17d17dbc80cf71&amp;u=717"><span style="font-weight: bold;">ล้อมเดช</span></a></span>
+		</td>
+	</tr>
+	</table>
+<!-- end currently active users -->
+
+
+
+
+
+<!-- controls for non-popup browsers -->
+
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center" style="border-top-width:0px">
+<tr>
+	<td class="thead" colspan="2">คำสั่งเพิ่มเติม<a name="goto_threadtools"></a></td>
+	
+</tr>
+<tr valign="top">
+	<td class="alt1" colspan="2">
+
+	<!-- thread tools -->
+	<div class="smallfont">
+		
+
+			<div><img class="inlineimg" src="images/buttons/printer.gif" alt="แสดงผลสำหรับที่จะ Print" vspace="1" /> <a href="printthread.php?s=b5b962740e955534ae17d17dbc80cf71&amp;t=5230" rel="nofollow">แสดงผลสำหรับที่จะ Print</a></div>
+			<div><img class="inlineimg" src="images/buttons/sendtofriend.gif" alt="ส่งกระทู้นี้ให้เพื่อนทาง Email" vspace="1" /> <a href="sendmessage.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=sendtofriend&amp;t=5230" rel="nofollow">ส่งกระทู้นี้ให้เพื่อนทาง Email</a></div>
+		
+		
+		
+	</div>
+	<!-- / thread tools -->
+
+	</td>
+	
+</tr>
+
+</table>
+<br />
+
+
+<!-- / controls for non-popup browsers -->
+
+
+<!-- forum rules and admin links -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+<tr valign="bottom">
+	<td width="100%" valign="top">
+		<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="210">
+<thead>
+<tr>
+	<td class="thead">
+		<a style="float:right" href="#top" onclick="return toggle_collapse('forumrules')"><img id="collapseimg_forumrules" src="images/buttons/collapse_thead.gif" alt="" border="0" /></a>
+		กฎการส่งข้อความ
+	</td>
+</tr>
+</thead>
+<tbody id="collapseobj_forumrules" style="">
+<tr>
+	<td class="alt1" nowrap="nowrap"><div class="smallfont">
+		
+		<div>You <strong>may not</strong> post new threads</div>
+		<div>You <strong>may not</strong> post replies</div>
+		<div>You <strong>may not</strong> post attachments</div>
+		<div>You <strong>may not</strong> edit your posts</div>
+		<hr />
+		
+		<div><a href="misc.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=bbcode" target="_blank">BB code</a> is <strong>ใช้ได้</strong></div>
+		<div><a href="misc.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=showsmilies" target="_blank">Smilies</a> are <strong>ใช้ได้</strong></div>
+		<div><a href="misc.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>ใช้ได้</strong></div>
+		<div>HTML code is <strong>งดใช้</strong></div>
+		<hr />
+		<div><a href="misc.php?s=b5b962740e955534ae17d17dbc80cf71&amp;do=showrules" target="_blank">Forum Rules</a></div>
+	</div></td>
+</tr>
+</tbody>
+</table>
+	</td>
+	<td class="smallfont" align="right">
+		<table cellpadding="0" cellspacing="0" border="0">
+		
+		<tr>
+			<td>
+			<div class="smallfont" style="text-align:left; white-space:nowrap">
+	<form action="forumdisplay.php" method="get">
+	<input type="hidden" name="s" value="b5b962740e955534ae17d17dbc80cf71" />
+	<input type="hidden" name="daysprune" value="" />
+	<strong>Forum Jump</strong><br />
+	<select name="f" onchange="this.form.submit();">
+		<optgroup label="Site Areas">
+			<option value="cp" >แผงควบคุมของตัวเอง</option>
+			<option value="pm" >ข้อความส่วนตัว</option>
+			<option value="subs" >ติดตามอ่าน</option>
+			<option value="wol" >ใครกำลังใช้ระบบ</option>
+			<option value="search" >ค้นหาในห้อง</option>
+			<option value="home" >Forums Home</option>
+		</optgroup>
+		
+		<optgroup label="ห้อง">
+		<option value="29" class="fjdpth0" > ประกาศ!!! กฎ กติกา มารยาทในการใช้กระดานสนทนา</option>
+<option value="30" class="fjdpth1" >&nbsp; &nbsp;  กฎ กติกา มารยาทในการใช้กระดานสนทนา</option>
+<option value="28" class="fjdpth1" >&nbsp; &nbsp;  ประกาศจากเว็บไซต์วัดท่าขนุน</option>
+<option value="36" class="fjdpth1" >&nbsp; &nbsp;  ศาลาพักใจ</option>
+<option value="27" class="fjdpth0" > ห้องบูรพาจารย์</option>
+<option value="17" class="fjdpth1" >&nbsp; &nbsp;  พระครูสุวรรณเสลาภรณ์ (หลวงปู่สาย อคฺควํโส)</option>
+<option value="21" class="fjdpth1" >&nbsp; &nbsp;  ประวัติและปฏิปทาของพระสุปฏิปันโน</option>
+<option value="24" class="fjdpth0" > ห้องธรรมะพระอาจารย์</option>
+<option value="18" class="fjdpth1" >&nbsp; &nbsp;  พระครูวิลาศกาญจนธรรม (หลวงพ่อเล็ก สุธมฺมปญฺโญ)</option>
+<option value="39" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เทศน์ช่วงทำกรรมฐาน</option>
+<option value="40" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เทศน์ในวาระสำคัญต่าง ๆ</option>
+<option value="44" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ปกิณกธรรมจากเกาะพระฤๅษี</option>
+<option value="41" class="fjdpth1" >&nbsp; &nbsp;  เรื่องเล่าต่าง ๆ โดยพระครูวิลาศกาญจนธรรม (หลวงพ่อเล็ก สุธมฺมปญฺโญ)</option>
+<option value="25" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  อดีตที่ผ่านพ้น</option>
+<option value="60" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  กระโถนข้างธรรมาสน์</option>
+<option value="42" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ใต้ฟ้าอิระวดี</option>
+<option value="45" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ล่องแก่งมหาภัย</option>
+<option value="48" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เส้นทางพระโพธิสัตว์</option>
+<option value="57" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  มิงกะละบาร์ เมียนมาร์</option>
+<option value="58" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  มหาเศรษฐีไปบรมพุทโธ</option>
+<option value="59" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ซัวสะเดย..เนียงลออ</option>
+<option value="61" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  อีหรอบเดียวกัน</option>
+<option value="62" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  สนุกสนานวุ่นวายในเนปาล</option>
+<option value="63" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ปลดหนี้ที่เนปาล</option>
+<option value="47" class="fjdpth1" >&nbsp; &nbsp;  เก็บตกจากบ้านวิริยบารมี</option>
+<option value="26" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เก็บตกจากบ้านอนุสาวรีย์</option>
+<option value="19" class="fjdpth0" > ห้องธรรมะ เรื่องราวในอดีต และสรรพวิชา</option>
+<option value="2" class="fjdpth1" >&nbsp; &nbsp;  กระทู้ธรรม</option>
+<option value="43" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ธรรมที่นำไปสู่ความหลุดพ้น รวบรวมโดย พล.ต.ท.นพ.สมศักดิ์ สืบสงวน</option>
+<option value="12" class="fjdpth1" >&nbsp; &nbsp;  เรื่องราวในอดีต และสรรพวิชา</option>
+<option value="9" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  อักขระและคาถาอาคม</option>
+<option value="11" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เคล็ดวิชาต่าง ๆ</option>
+<option value="22" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ยาแผนไทย</option>
+<option value="20" class="fjdpth1" >&nbsp; &nbsp;  เรื่องธรรมะ และการปฏิบัติ</option>
+<option value="51" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ฝากคำถามถึงหลวงพ่อ</option>
+<option value="4" class="fjdpth0" > ห้องภาพ</option>
+<option value="13" class="fjdpth1" >&nbsp; &nbsp;  ภาพวัดท่าขนุน</option>
+<option value="14" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ภาพกิจกรรมต่าง ๆ ของวัดและหลวงพ่อ</option>
+<option value="15" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ภาพสัตว์ต่าง ๆ ภายในวัด</option>
+<option value="53" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  วัตถุมงคลของหลวงพ่อ</option>
+<option value="16" class="fjdpth1" >&nbsp; &nbsp;  ภาพอื่น ๆ</option>
+<option value="1" class="fjdpth0" > ข่าวประชาสัมพันธ์</option>
+<option value="7" class="fjdpth1" >&nbsp; &nbsp;  ข่าวประชาสัมพันธ์วัดท่าขนุน</option>
+<option value="64" class="fjsel" selected="selected">&nbsp; &nbsp;  สะพานบุญ</option>
+<option value="37" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  บูชาวัตถุมงคลจากวัดท่าขนุน</option>
+<option value="46" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  สั่งซื้อหนังสือธรรมะจากวัดท่าขนุน</option>
+<option value="32" class="fjdpth0" > เรื่องทั่วไป</option>
+<option value="3" class="fjdpth1" >&nbsp; &nbsp;  คุยเรื่องทั่วไป</option>
+<option value="54" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  นิทานเซน</option>
+<option value="56" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  หยุดความเลว...ที่..ไล่ล่าคุณ</option>
+<option value="52" class="fjdpth1" >&nbsp; &nbsp;  เรื่องน่าอ่าน</option>
+<option value="49" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ผจญกรรม</option>
+<option value="23" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ป้าเม้า เล่ากระจาย</option>
+<option value="33" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ทิดเต๋าเผาพระอาจารย์</option>
+<option value="35" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  หมื่นลี้ แสนไมล์</option>
+<option value="34" class="fjdpth1" >&nbsp; &nbsp;  ห้องสวดมนต์</option>
+
+		</optgroup>
+		
+	</select><input type="submit" class="button" value="Go"  />
+	</form>
+</div>
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+<!-- /forum rules and admin links -->
+
+<br />
+
+
+
+
+
+<br />
+<div class="smallfont" align="center">เวลาทั้งหมดอยู่ในเขตเวลา GMT +7 และเวลาในขณะนี้คือ <span class="time">22:31</span> </div>
+<br />
+
+
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+<!-- /content area table -->
+
+<form action="index.php" method="get">
+
+<table cellpadding="6" cellspacing="0" border="0" width="100%" class="page" align="center">
+<tr>
+	
+	
+		<td class="tfoot">
+			<select name="langid" onchange="switch_id(this, 'lang')">
+				<optgroup label="Quick Language Chooser">
+					<option value="1" class="" >-- English (US)</option>
+<option value="2" class="" selected="selected">-- Thai</option>
+
+				</optgroup>
+			</select>
+		</td>
+	
+	<td class="tfoot" align="right" width="100%">
+		<div class="smallfont">
+			<strong>
+				<a href="sendmessage.php?s=b5b962740e955534ae17d17dbc80cf71" rel="nofollow" accesskey="9">ติดต่อทีมงาน</a> -
+				<a href="http://www.watthakhanun.com">วัดท่าขนุน อ.ทองผาภูมิ จ.กาญจนบุรี</a> -
+				
+				
+				<a href="archive/index.php">เอกสารเก่า</a> -
+				
+				<a href="#top" onclick="self.scrollTo(0, 0); return false;">ไปบนสุด</a>
+			</strong>
+		</div>
+	</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+	<div class="smallfont" align="center">
+	<!-- Do not remove this copyright notice -->
+	<BR>ค้นหาในเว็บวัดท่าขนุน <BR>
+<IFRAME allowtransparency="true" SRC="../search.html"  FRAMEBORDER=0 SCROLLING=NO></IFRAME>
+<BR>เว็บวัดท่าขนุน Powered by vBulletin<br>Copyright &copy; 2000-2010 Jelsoft Enterprises Limited.
+
+
+	<!-- Do not remove this copyright notice -->
+	</div>
+
+	<div class="smallfont" align="center">
+	<!-- Do not remove  or your scheduled tasks will cease to function -->
+	
+	<!-- Do not remove  or your scheduled tasks will cease to function -->
+
+	<b><Marquee>ความคิดเห็นส่วนตัวทุก ๆ ข้อความในเว็บบอร์ดนี้ สงวนสิทธิ์เฉพาะเจ้าของข้อความ ไม่อนุญาตให้คัดลอกออกไปเผยแพร่ นอกจากจะได้รับคำอนุญาตจากเจ้าของข้อความอย่างชัดเจนดีแล้ว</b></Marquee>
+	</div>
+</div>
+
+</form>
+
+
+
+
+<script type="text/javascript">
+<!--
+	// Main vBulletin Javascript Initialization
+	vBulletin_init();
+//-->
+</script>
+
+<!-- temp -->
+<div style="display:none">
+	<!-- thread rate -->
+	
+		
+	
+	<!-- / thread rate -->
+</div>
+
+</body>
+</html>

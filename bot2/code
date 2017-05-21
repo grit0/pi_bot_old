@@ -1,0 +1,5570 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="th">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=tis-620" />
+<meta name="generator" content="vBulletin 3.8.8 Beta 4" />
+
+<meta name="keywords" content=" ขอเชิญร่วมบุญเป็นเจ้าภาพกฐินปลดหนี้ ณ วัดตะเคียนงาม จ.กาญจนบุรี, forum,bbs,discussion,bulletin board" />
+<meta name="description" content="หน้า 2- ขอเชิญร่วมบุญเป็นเจ้าภาพกฐินปลดหนี้ ณ วัดตะเคียนงาม จ.กาญจนบุรี สะพานบุญ" />
+
+
+<!-- CSS Stylesheet -->
+<style type="text/css" id="vbulletin_css">
+/**
+* vBulletin 3.8.7 CSS
+* Style: 'ora'; Style ID: 2
+*/
+body
+{
+	background: transparent url(http://www.watthakhanun.com/webboard/images/ora_bg.gif);
+	color: #000000;
+	font: 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+		margin: 0px;
+		padding: 0px;
+}
+a:link, body_alink
+{
+	color: #8F712F;
+}
+a:visited, body_avisited
+{
+	color: #8F712F;
+}
+a:hover, a:active, body_ahover
+{
+	color: #411222;
+}
+.page
+{
+	background: transparent;
+	color: #000000;
+}
+td, th, p, li
+{
+	font: 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tborder
+{
+	background: #998049;
+	color: #000000;
+	border: 1px solid #B9974F;
+}
+.tcat
+{
+	background: transparent url(http://www.watthakhanun.com/webboard/images/ora_catbg.gif);
+	color: #996600;
+	font: bold 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tcat a:link, .tcat_alink
+{
+	color: #996600;
+	text-decoration: none;
+}
+.tcat a:visited, .tcat_avisited
+{
+	color: #996600;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active, .tcat_ahover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+.thead
+{
+	background: #996600 url(images/ora/ora_headbg.gif) repeat-x top left;
+	color: #FBDA95;
+	font: bold 16px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead a:link, .thead_alink
+{
+	color: #FBDA95;
+}
+.thead a:visited, .thead_avisited
+{
+	color: #FBDA95;
+}
+.thead a:hover, .thead a:active, .thead_ahover
+{
+	color: #0000FF;
+}
+.tfoot
+{
+	background: #996600 url(images/ora/ora_headbg.gif) repeat-x top left;
+	color: #FBDA95;
+}
+.tfoot a:link, .tfoot_alink
+{
+	color: #FBDA95;
+}
+.tfoot a:visited, .tfoot_avisited
+{
+	color: #FBDA95;
+}
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover
+{
+	color: #FFFFFF;
+}
+.alt1, .alt1Active
+{
+	background: #FFFEFD;
+	color: #000000;
+}
+.alt1 a:hover, .alt1 a:active, .alt1_ahover, .alt1Active a:hover, .alt1Active a:active, .alt1Active_ahover
+{
+	color: #FF0000;
+}
+.alt2, .alt2Active
+{
+	background: #F2E6CB;
+	color: #000000;
+}
+.alt2 a:hover, .alt2 a:active, .alt2_ahover, .alt2Active a:hover, .alt2Active a:active, .alt2Active_ahover
+{
+	color: #FF0000;
+}
+.inlinemod
+{
+	background: #FFFFCC;
+	color: #000000;
+}
+.wysiwyg
+{
+	background: #F5F5FF;
+	color: #000000;
+	font: 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	margin: 5px 10px 10px 10px;
+	padding: 0px;
+}
+.wysiwyg a:link, .wysiwyg_alink
+{
+	color: #22229C;
+}
+.wysiwyg a:visited, .wysiwyg_avisited
+{
+	color: #22229C;
+}
+.wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover
+{
+	color: #FF4400;
+}
+textarea, .bginput
+{
+	font: 15pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.bginput option, .bginput optgroup
+{
+	font-size: 15pt;
+	font-family: verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.button
+{
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+select
+{
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+option, optgroup
+{
+	font-size: 16px;
+	font-family: verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.smallfont
+{
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.time
+{
+	color: #CC6600;
+}
+.navbar
+{
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.highlight
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+.fjsel
+{
+	background: #F2E6CB;
+	color: #663300;
+}
+.fjdpth0
+{
+	background: #F7F7F7;
+	color: #000000;
+}
+.panel
+{
+	background: #FFFEFD;
+	color: #000000;
+	padding: 10px;
+	border: 2px outset;
+}
+.panelsurround
+{
+	background: #F2E6CB;
+	color: #000000;
+}
+legend
+{
+	color: #663300;
+	font: 16px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.vbmenu_control
+{
+	background: #FBDA95 url(images/ora/ora_catbg.gif) repeat-x top left;
+	color: #B69D66;
+	font: bold 16px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+}
+.vbmenu_control a:link, .vbmenu_control_alink
+{
+	color: #998049;
+	text-decoration: none;
+}
+.vbmenu_control a:visited, .vbmenu_control_avisited
+{
+	color: #998049;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.vbmenu_popup
+{
+	background: #F9E1C5;
+	color: #000000;
+	border: 1px solid #B9974F;
+}
+.vbmenu_option
+{
+	background: #F2E6CB;
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link, .vbmenu_option_alink
+{
+	text-decoration: none;
+}
+.vbmenu_option a:visited, .vbmenu_option_avisited
+{
+	text-decoration: none;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover
+{
+	text-decoration: none;
+}
+.vbmenu_hilite
+{
+	background: #FFFEFD;
+	font: 16px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link, .vbmenu_hilite_alink
+{
+	text-decoration: none;
+}
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited
+{
+	text-decoration: none;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover
+{
+	text-decoration: none;
+}
+/* ***** styling for 'big' usernames on postbit etc. ***** */
+.bigusername { font-size: 16pt; }
+
+/* ***** small padding on 'thead' elements ***** */
+td.thead, th.thead, div.thead { padding: 4px; }
+
+/* ***** basic styles for multi-page nav elements */
+.pagenav a { text-decoration: none; }
+.pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** de-emphasized text */
+.shade, a.shade:link, a.shade:visited { color: #777777; text-decoration: none; }
+a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
+.tcat .shade, .thead .shade, .tfoot .shade { color: #DDDDDD; }
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { margin-bottom: 6px; }
+.fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
+.headerwrap {
+	background-color: #C5A35A;
+	background-image: url(images/ora/ora_headerbg.gif);
+	background-repeat: repeat-x;
+	height: 121px;
+}
+.cbg {
+	background-color: #C5A35A;
+	background-image: url(images/ora/ora_cbg.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 400px;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_important.css?v=387" />
+
+
+<!-- / CSS Stylesheet -->
+
+<script type="text/javascript" src="clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=388"></script>
+<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=388"></script>
+<script type="text/javascript">
+<!--
+var SESSIONURL = "s=f455eb705250c41cd3d313991905f4d8&";
+var SECURITYTOKEN = "guest";
+var IMGDIR_MISC = "images/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+</script>
+<script type="text/javascript" src="clientscript/vbulletin_global.js?v=388"></script>
+
+
+<script type="text/javascript" src="clientscript/post_thanks.js"></script>
+<script type="text/javascript" src="clientscript/post_thanks_collapse.js"></script>
+	<title> ขอเชิญร่วมบุญเป็นเจ้าภาพกฐินปลดหนี้ ณ วัดตะเคียนงาม จ.กาญจนบุรี - หน้า 2 - กระดานสนทนาวัดท่าขนุน</title>
+	<script type="text/javascript" src="clientscript/vbulletin_post_loader.js?v=388"></script>
+	<style type="text/css" id="vbulletin_showthread_css">
+	<!--
+	
+	#links div { white-space: nowrap; }
+	#links img { vertical-align: middle; }
+	-->
+	</style>
+</head>
+<body onload="">
+<!-- logo -->
+<div align="center">
+<a name="top"></a>
+	<td align="" valign="top"><a href="index.php?s=f455eb705250c41cd3d313991905f4d8"><img src="images/misc/logo.gif" border="0" alt="กระดานสนทนาวัดท่าขนุน" /></a></td>
+</div>
+
+
+
+
+</tr>
+</table>
+<!-- /logo -->
+
+<!-- content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+
+
+
+
+<br />
+
+<!-- breadcrumb, login, pm info -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="alt1" width="100%">
+		
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tr valign="bottom">
+				<td><a href="#" onclick="history.back(1); return false;"><img src="images/misc/navbits_start.gif" alt="กลับไป" border="0" /></a></td>
+				<td>&nbsp;</td>
+				<td width="100%"><span class="navbar"><a href="index.php?s=f455eb705250c41cd3d313991905f4d8" accesskey="1">กระดานสนทนาวัดท่าขนุน</a></span> 
+	<span class="navbar">&gt; <a href="forumdisplay.php?s=f455eb705250c41cd3d313991905f4d8&amp;f=1">ข่าวประชาสัมพันธ์</a></span>
+
+
+	<span class="navbar">&gt; <a href="forumdisplay.php?s=f455eb705250c41cd3d313991905f4d8&amp;f=64">สะพานบุญ</a></span>
+
+</td>
+			</tr>
+			<tr>
+				<td class="navbar" style="font-size:10pt; padding-top:1px" colspan="3"><a href="/webboard/showthread.php?t=5236&amp;page=2"><img class="inlineimg" src="images/misc/navbits_finallink_ltr.gif" alt="โหลดหน้านี้ใหม่" border="0" /></a> <strong>
+	 ขอเชิญร่วมบุญเป็นเจ้าภาพกฐินปลดหนี้ ณ วัดตะเคียนงาม จ.กาญจนบุรี
+
+</strong></td>
+			</tr>
+			</table>
+		
+	</td>
+
+	<td class="alt2" nowrap="nowrap" style="padding:0px">
+		<!-- login form -->
+		<form action="login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=388"></script>
+		<table cellpadding="0" cellspacing="3" border="0">
+		<tr>
+			<td class="smallfont" style="white-space: nowrap;"><label for="navbar_username">User Name</label></td>
+			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';" /></td>
+			<td class="smallfont" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c" />จดจำ ?</label></td>
+		</tr>
+		<tr>
+			<td class="smallfont"><label for="navbar_password">Password</label></td>
+			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102" /></td>
+			<td><input type="submit" class="button" value="เข้าระบบ" tabindex="104" title="ใส่ชื่อผู้ใช้และรหัสผ่านในกล่องสำหรับเข้าระบบ หรือกดที่ปุ่ม 'สมัครสมาชิก(register)' เพื่อสร้างรายละเอียดส่วนตัวใหม่" accesskey="s" /></td>
+		</tr>
+		</table>
+		<input type="hidden" name="s" value="f455eb705250c41cd3d313991905f4d8" />
+		<input type="hidden" name="securitytoken" value="guest" />
+		<input type="hidden" name="do" value="login" />
+		<input type="hidden" name="vb_login_md5password" />
+		<input type="hidden" name="vb_login_md5password_utf" />
+		</form>
+		<!-- / login form -->
+	</td>
+
+</tr>
+</table>
+<!-- / breadcrumb, login, pm info -->
+
+<!-- nav buttons bar -->
+<div class="tborder" style="padding:1px; border-top-width:0px">
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+	<tr align="center">
+		
+		
+			<td class="vbmenu_control"><a href="register.php?s=f455eb705250c41cd3d313991905f4d8" rel="nofollow">สมัครสมาชิก</a></td>
+		
+		
+		<td class="vbmenu_control"><a rel="help" href="faq.php?s=f455eb705250c41cd3d313991905f4d8" accesskey="5">คู่มือการใช้</a></td>
+		
+			
+			
+		
+		<td class="vbmenu_control"><a href="calendar.php?s=f455eb705250c41cd3d313991905f4d8">ปฏิทิน</a></td>
+		
+			
+				<td class="vbmenu_control"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8" accesskey="4">ค้นหา</a></td>
+				
+				<td class="vbmenu_control"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=getdaily" accesskey="2">ข้อความใหม่วันนี้</a></td>
+				
+			
+			<td class="vbmenu_control"><a href="forumdisplay.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=markread&amp;markreadhash=guest" rel="nofollow">ทำสัญลักษณ์ว่าอ่านแล้ว</a></td>
+			
+		
+		
+		
+		</tr>
+	</table>
+</div>
+<!-- / nav buttons bar -->
+
+<br />
+
+
+<form action="profile.php?do=dismissnotice" method="post" id="notices">
+<input type="hidden" name="do" value="dismissnotice" />
+<input type="hidden" name="securitytoken" value="guest" />
+<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+<input type="hidden" name="url" value="/webboard/showthread.php?t=5236&amp;page=2" />
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+	<tr>
+		<td class="thead">Notices</td>
+	</tr>
+	<tr>
+		<td class="alt1">
+			<div class="navbar_notice" id="navbar_notice_4">
+	<div style="text-align:center;font-weight: bold;color: Red">เพื่อความรวดเร็วในการอ่านสำหรับผู้ที่พิการทางสายตา ท่านสามารถเข้าเว็บวัดท่าขนุนโดยใช้โปรแกรมตาทิพย์ที่ลิงค์นี้<br> 
+<a href="http://www.watthakhanun.com/webboard/archive">http://www.watthakhanun.com/webboard/archive</a>
+</div>
+</div><div class="navbar_notice" id="navbar_notice_2">
+	<div style="text-align:center;font-weight: bold;color: Red">
+๑&#1769;&#1758;&#1769;๑ ขอความร่วมมือสมาชิกทุกท่าน โปรดตั้งชื่อเป็นภาษาไทย ๑&#1769;&#1758;&#1769;๑<br>ช่วยกันใช้ภาษาไทยให้ถูกต้อง และโปรดหลีกเลี่ยงการนำภาษาพูดมาใช้เป็นภาษาเขียนด้วย</div>
+</div><div class="navbar_notice" id="navbar_notice_3">
+	<span style="color:darkorange;"><Marquee>&#9733;กำหนดการ:
+ การรับสังฆทานที่บ้านวิริยบารมีประจำเดือนตุลาคม วันศุกร์-เสาร์-อาทิตย์ที่ ๓๐ ก.ย. - ๑-๒ ต.ค. ๒๕๕๙&#9733; &#9733;กรุณาอ่านกฎ กติกา มารยาท ก่อนการใช้กระดานสนทนา&#9733; &#9733;สมาชิกใหม่ทุกท่านโปรดตั้งชื่อเข้าใช้งานเป็นภาษาไทย&#9733; </Marquee></span>
+</div>
+		</td>
+	</tr>
+	</table>
+	<br />
+</form>
+
+
+
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+	<tr>
+		<td class="alt1" width="100%"><strong>สะพานบุญ</strong> <span class="smallfont">สำหรับงานบอกบุญของเว็บวัดท่าขนุนเท่านั้น</span></td>
+	</tr>
+	</table>
+	<br />
+
+
+
+
+
+
+<!-- advertising -->
+
+
+
+
+
+
+
+
+<a name="poststop" id="poststop"></a>
+
+<!-- controls above postbits -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-bottom:3px">
+<tr valign="bottom">
+	
+		<td class="smallfont"><a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;noquote=1&amp;p=174826" rel="nofollow"><img src="images/buttons/reply.gif" alt="ตอบ" border="0" /></a></td>
+	
+	<td align="right"><div class="pagenav" align="right">
+<table class="tborder" cellpadding="3" cellspacing="1" border="0">
+<tr>
+	<td class="vbmenu_control" style="font-weight:normal"><font color="#FFFFFF">หน้าที่ 2 จากทั้งหมด 3 หน้า</font></td>
+	
+	<td class="alt1"><a rel="prev" class="smallfont" href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236" title="หน้าที่ผ่านมา - Results 1 to 20 of 44">&lt;</a></td>
+	<td class="alt1"><a class="smallfont" href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236" title="แสดงผล 1 to 20 of 44">1</a></td>	<td class="alt2"><span class="smallfont" title="Showing results 21 to 40 of 44"><strong>2</strong></span></td>
+ <td class="alt1"><a class="smallfont" href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236&amp;page=3" title="แสดงผล 41 to 44 of 44">3</a></td>
+	<td class="alt1"><a rel="next" class="smallfont" href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236&amp;page=3" title="หน้าถัดไป - Results 41 to 44 of 44">&gt;</a></td>
+	
+	
+</tr>
+</table>
+</div></td>
+</tr>
+</table>
+<!-- / controls above postbits -->
+
+<!-- toolbar -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center" style="border-bottom-width:0px">
+<tr>
+	<td class="tcat" width="100%">
+		<div class="smallfont">
+		
+		&nbsp;
+		</div>
+	</td>
+	<td class="vbmenu_control" id="threadtools" nowrap="nowrap">
+		<a href="#goto_threadtools">คำสั่งเพิ่มเติม</a>
+		
+	</td>
+	
+	
+	
+
+	
+
+</tr>
+</table>
+<!-- / toolbar -->
+
+
+
+<!-- end content table -->
+
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+<!-- / end content table -->
+
+
+
+
+
+<div id="posts"><!-- post #174826 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174826" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174826" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174826&amp;postcount=21" target="new" rel="nofollow" id="postcount174826" name="21"><strong>21</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174826"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				เมื่อวานนี้, 17:41
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174826">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=7772"><span style="font-weight: bold;">ปกรณ์</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="ปกรณ์ is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174826", true); </script>
+					
+				</div>
+
+				<div class="smallfont">สมาชิก - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Aug 2015</div>
+					
+					
+					<div>
+						ข้อความ: 3
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 5</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 124 ครั้ง ใน 5 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174826_7772"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="ปกรณ์ is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174826">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174826">
+			
+			ขอจองรายการที่ ๑๕ ครับ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174826" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174826"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 25 คน ได้กล่าว "อนุโมทนา" กับคุณ ปกรณ์ ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_174826"><center><a href="#" onclick="post_thanks_collapse(174826); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174826 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174826_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">ปกรณ์</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=7772">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=7772" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ ปกรณ์</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=7772" rel="nofollow">หาข้อความทั้งหมดของคุณ ปกรณ์</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174826 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174826 --><!-- post #174829 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174829" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174829" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174829&amp;postcount=22" target="new" rel="nofollow" id="postcount174829" name="22"><strong>22</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174829"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				เมื่อวานนี้, 18:02
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174829">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=5403"><span style="font-weight: bold;">กรภูมินทร์</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="กรภูมินทร์ is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174829", true); </script>
+					
+				</div>
+
+				<div class="smallfont">สมาชิก - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Feb 2013</div>
+					
+					
+					<div>
+						ข้อความ: 12
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 242</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 2,500 ครั้ง ใน 80 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174829_5403"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="กรภูมินทร์ is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174829">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174829">
+			
+			จองรายการที่ ๑๓ ครับ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174829" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174829"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 24 คน ได้กล่าว "อนุโมทนา" กับคุณ กรภูมินทร์ ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_174829"><center><a href="#" onclick="post_thanks_collapse(174829); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174829 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174829_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">กรภูมินทร์</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=5403">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=5403" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ กรภูมินทร์</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=5403" rel="nofollow">หาข้อความทั้งหมดของคุณ กรภูมินทร์</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174829 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174829 --><!-- post #174830 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174830" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174830" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174830&amp;postcount=23" target="new" rel="nofollow" id="postcount174830" name="23"><strong>23</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174830"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				เมื่อวานนี้, 18:22
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174830">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4579"><span style="font-weight: bold;">หยกเขียว</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="หยกเขียว is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174830", true); </script>
+					
+				</div>
+
+				<div class="smallfont">สมาชิก - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: May 2012</div>
+					
+					
+					<div>
+						ข้อความ: 25
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 6,536</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 11,355 ครั้ง ใน 354 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174830_4579"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="หยกเขียว is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174830">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174830">
+			
+			จองรายการที่ ๑๓
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174830" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174830"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 24 คน ได้กล่าว "อนุโมทนา" กับคุณ หยกเขียว ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_174830"><center><a href="#" onclick="post_thanks_collapse(174830); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174830 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174830_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">หยกเขียว</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4579">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=4579" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ หยกเขียว</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=4579" rel="nofollow">หาข้อความทั้งหมดของคุณ หยกเขียว</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174830 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174830 --><!-- post #174831 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174831" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174831" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174831&amp;postcount=24" target="new" rel="nofollow" id="postcount174831" name="24"><strong>24</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174831"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				เมื่อวานนี้, 18:26
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174831">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=7476"><span style="font-weight: bold;">หญิงใจใส</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="หญิงใจใส is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174831", true); </script>
+					
+				</div>
+
+				<div class="smallfont">สมาชิก - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: May 2015</div>
+					
+					
+					<div>
+						ข้อความ: 7
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 1,987</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 1,972 ครั้ง ใน 67 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174831_7476"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="หญิงใจใส is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174831">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174831">
+			
+			จองรายการที่ ๑๕ ถึง ๒๐
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174831" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174831"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 24 คน ได้กล่าว "อนุโมทนา" กับคุณ หญิงใจใส ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_174831"><center><a href="#" onclick="post_thanks_collapse(174831); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174831 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174831_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">หญิงใจใส</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=7476">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=7476" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ หญิงใจใส</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=7476" rel="nofollow">หาข้อความทั้งหมดของคุณ หญิงใจใส</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174831 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174831 --><!-- post #174847 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174847" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174847" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174847&amp;postcount=25" target="new" rel="nofollow" id="postcount174847" name="25"><strong>25</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174847"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				เมื่อวานนี้, 22:03
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220&amp;dateline=1411450348" width="150" height="107" alt="ตัวเล็ก's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174847">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><span style="color: Darkorange;font-weight: bold;">ตัวเล็ก</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="ตัวเล็ก is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174847", true); </script>
+					
+				</div>
+
+				<div class="smallfont">กรรมการเว็บ - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Mar 2009</div>
+					
+					
+					<div>
+						ข้อความ: 5,555
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 68,068</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 226,064 ครั้ง ใน 9,522 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174847_220"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="ตัวเล็ก is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174847">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174847">
+			
+			<div style="margin:20px; margin-top:5px; ">
+	<div class="smallfont" style="margin-bottom:2px">อ้างอิง:</div>
+	<table cellpadding="6" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="alt2" style="border:1px inset">
+			
+				<div>
+					ข้อความดั้งเดิมโดยคุณ <strong>ชัยวัฒน์ ชคัตตรัย</strong>
+					<a href="showthread.php?p=174819#post174819" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost.gif" border="0" alt="อ่านข้อความ" /></a>
+				</div>
+				<div style="font-style:normal">จองรายการที่ ๑๖ ครับ</div>
+			
+		</td>
+	</tr>
+	</table>
+</div><div style="margin:20px; margin-top:5px; ">
+	<div class="smallfont" style="margin-bottom:2px">อ้างอิง:</div>
+	<table cellpadding="6" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="alt2" style="border:1px inset">
+			
+				<div>
+					ข้อความดั้งเดิมโดยคุณ <strong>บัณฑิตมหาเศรษฐี</strong>
+					<a href="showthread.php?p=174821#post174821" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost.gif" border="0" alt="อ่านข้อความ" /></a>
+				</div>
+				<div style="font-style:normal">จอง ๑๘ ครับ</div>
+			
+		</td>
+	</tr>
+	</table>
+</div><div style="margin:20px; margin-top:5px; ">
+	<div class="smallfont" style="margin-bottom:2px">อ้างอิง:</div>
+	<table cellpadding="6" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="alt2" style="border:1px inset">
+			
+				<div>
+					ข้อความดั้งเดิมโดยคุณ <strong>ออมสิน</strong>
+					<a href="showthread.php?p=174824#post174824" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost.gif" border="0" alt="อ่านข้อความ" /></a>
+				</div>
+				<div style="font-style:normal">จองรายการที่ ๑๓ , ๑๖ ,  ๑๗ , ๑๘</div>
+			
+		</td>
+	</tr>
+	</table>
+</div><div style="margin:20px; margin-top:5px; ">
+	<div class="smallfont" style="margin-bottom:2px">อ้างอิง:</div>
+	<table cellpadding="6" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="alt2" style="border:1px inset">
+			
+				<div>
+					ข้อความดั้งเดิมโดยคุณ <strong>ปกรณ์</strong>
+					<a href="showthread.php?p=174826#post174826" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost.gif" border="0" alt="อ่านข้อความ" /></a>
+				</div>
+				<div style="font-style:normal">ขอจองรายการที่ ๑๕ ครับ</div>
+			
+		</td>
+	</tr>
+	</table>
+</div><div style="margin:20px; margin-top:5px; ">
+	<div class="smallfont" style="margin-bottom:2px">อ้างอิง:</div>
+	<table cellpadding="6" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="alt2" style="border:1px inset">
+			
+				<div>
+					ข้อความดั้งเดิมโดยคุณ <strong>กรภูมินทร์</strong>
+					<a href="showthread.php?p=174829#post174829" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost.gif" border="0" alt="อ่านข้อความ" /></a>
+				</div>
+				<div style="font-style:normal">จองรายการที่ ๑๓ ครับ</div>
+			
+		</td>
+	</tr>
+	</table>
+</div><div style="margin:20px; margin-top:5px; ">
+	<div class="smallfont" style="margin-bottom:2px">อ้างอิง:</div>
+	<table cellpadding="6" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="alt2" style="border:1px inset">
+			
+				<div>
+					ข้อความดั้งเดิมโดยคุณ <strong>หยกเขียว</strong>
+					<a href="showthread.php?p=174830#post174830" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost.gif" border="0" alt="อ่านข้อความ" /></a>
+				</div>
+				<div style="font-style:normal">จองรายการที่ ๑๓</div>
+			
+		</td>
+	</tr>
+	</table>
+</div><div style="margin:20px; margin-top:5px; ">
+	<div class="smallfont" style="margin-bottom:2px">อ้างอิง:</div>
+	<table cellpadding="6" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="alt2" style="border:1px inset">
+			
+				<div>
+					ข้อความดั้งเดิมโดยคุณ <strong>หญิงใจใส</strong>
+					<a href="showthread.php?p=174831#post174831" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost.gif" border="0" alt="อ่านข้อความ" /></a>
+				</div>
+				<div style="font-style:normal">จองรายการที่ ๑๕ ถึง ๒๐</div>
+			
+		</td>
+	</tr>
+	</table>
+</div><img src="images/smilies/A4672615-5.gif" border="0" alt="" title="A4672615-5.gif" class="inlineimg" /> ท่านที่มีรายชื่อข้างต้น ไม่ได้รับสิทธิ์การจอง เนื่องจากวัตถุมงคลจองบูชาหมดแล้วค่ะ กราบอนุโมทนานะคะ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				มารใช้ คนทุกคน ของทุกชิ้น สัตว์ทุกตัว เป็นเครื่องมือในการขวางเรา โดยเฉพาะคนที่เรารักมากที่สุด <br />
+(-/\-) (-/\-) (-/\-)
+			</div>
+		<!-- / sig -->
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174847" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174847"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 22 คน ได้กล่าว "อนุโมทนา" กับคุณ ตัวเล็ก ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div id="post_thanks_collapse_box_174847"><center><a href="#" onclick="post_thanks_collapse(174847); return false;" rel="nofollow">แสดง/ซ่อน รายชื่อผู้อนุโมทนา</a></center></div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174847 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174847_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">ตัวเล็ก</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=220" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=220" rel="nofollow">หาข้อความทั้งหมดของคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174847 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174847 --><!-- post #174932 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174932" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174932" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174932&amp;postcount=26" target="new" rel="nofollow" id="postcount174932" name="26"><strong>26</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174932"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:19
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220&amp;dateline=1411450348" width="150" height="107" alt="ตัวเล็ก's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174932">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><span style="color: Darkorange;font-weight: bold;">ตัวเล็ก</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="ตัวเล็ก is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174932", true); </script>
+					
+				</div>
+
+				<div class="smallfont">กรรมการเว็บ - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Mar 2009</div>
+					
+					
+					<div>
+						ข้อความ: 5,555
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 68,068</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 226,064 ครั้ง ใน 9,522 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174932_220"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="ตัวเล็ก is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174932">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174932">
+			
+			<div align="center"><b><font size="6"><font color="DarkGreen">รายการวัตถุมงคล ร่วมบุญกฐินปลดหนี้ <br />
+ณ วัดตะเคียนงาม ต.บ้านเก่า อ.เมือง จ.กาญจนบุรี<br />
+<font color="Red">กำหนดทอดกฐินวันอาทิตย์ที่ ๓๐ ตุลาคม ๒๕๕๙</font></font></font></b><br />
+<br />
+<b><u>รายการที่ ๒</u></b><br />
+<font color="Magenta"><font size="5"><b>รูปหล่อหลวงปู่สาย ลอยองค์ หน้าตัก ๙ นิ้ว</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/malikaew/cq89i1421146156.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๓ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๓,๐๐๐ บาท<br />
+รายการนี้รับได้ที่บ้านวิริยบารมีเท่านั้น<br />
+</font></font> <br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๔</u></b><br />
+<font color="Magenta"><font size="5"><b>พระพุทธโสธร สีทอง หน้าตัก ๕ นิ้ว</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/5l3sk1474988129.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๒ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๕๐๐ บาท<br />
+รายการนี้รับได้ที่บ้านวิริยบารมีเท่านั้น</font></font> <br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๘</u></b><br />
+<font color="Magenta"><font size="5"><b>เหรียญของขวัญปีใหม่ ๒ หน้า เนื้อชินตะกั่ว</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/malikaew/b4u4c1452398604.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๔๙๕ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๓๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๙</u></b><br />
+<font color="Magenta"><font size="5"><b>เหรียญของขวัญปีใหม่ ๒ หน้า เนื้อทองแดง </b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/malikaew/p1ck81451742359.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑๙๕ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๓๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๑</u></b><br />
+<font color="Magenta"><font size="5"><b>พระชัยวัฒน์เกราะเพชร เนื้อชุบทองพ่นทราย หน้าตัก ๑ ซ.ม.</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/kimhun/je3b01342663234.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๔ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑,๐๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๒</u></b><br />
+<font color="Magenta"><font size="5"><b>พระนาคปรก ๒,๖๐๐ ปีพุทธชยันตี เนื้อชุบทอง</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/h6ex21474202806.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๒,๐๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๓</u></b><br />
+<font color="Magenta"><font size="5"><b>พระประดับพลอยสามสี </b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/kld9t1474988131.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๔</u></b><br />
+<font color="Magenta"><font size="5"><b>เหรียญหลวงปู่สาย เนื้อเงิน เหรียญเล็ก (ครึ่งองค์)</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/utjqe1474988132.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑,๐๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๕</u></b><br />
+<font color="Magenta"><font size="5"><b>สมเด็จองค์ปฐม วัดท่าขนุน เนื้อเงิน </b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/5gjwg1474988132.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๕,๐๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๖</u></b><br />
+<font color="Magenta"><font size="5"><b>เข็มกลัดท่านปู่-ท่านย่า</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/1ecwv1474988132.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๗</u></b><br />
+<font color="Magenta"><font size="5"><b>แหวน วัดปากน้ำ (๑)</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/7lf3z1474988132.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๘</u></b><br />
+<font color="Magenta"><font size="5"><b>แหวน วัดปากน้ำ (๒) </b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/2m65k1474988132.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๑๙</u></b><br />
+<font color="Magenta"><font size="5"><b>พญาเหล็ก วัดหลวงพ่อสดธรรมกายาราม (๑) สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/zwc461474988133.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๕,๐๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๐</u></b><br />
+<font color="Magenta"><font size="5"><b>น้ำเต้าพญาเหล็ก (สีทอง) วัดหลวงพ่อสดธรรมกายาราม <br />
+สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font> <br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/5yazw1474988133.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๕,๐๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๑</u></b><br />
+<font color="Magenta"><font size="5"><b>ตะกรุด สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/aws0u1474988133.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๒</u></b><br />
+<font color="Magenta"><font size="5"><b>อุลกมณี (หินสะเก็ดดาว) สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/nnq431474988134.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๓</u></b><br />
+<font color="Magenta"><font size="5"><b>ถุงผ้ารุ่นมหาลาภ มหาปราบไตรภพ หลวงพ่อหนุน สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/uqu0z1474988134.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ ใบ</font><br />
+<font color="Red">ร่วมบูชาใบละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๔</u></b><br />
+<font color="Magenta"><font size="5"><b>มีดหมอ หลวงพ่อหนุน (๑) สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/7ag1s1474988134.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๕</u></b><br />
+<font color="Magenta"><font size="5"><b>พระขรรค์ปรัชญะ วัดพุทธโมกข์ หลวงพ่อหนุน สุวิชชโย (๒) สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/si8fm1474988134.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๖</u></b><br />
+<font color="Magenta"><font size="5"><b>ดาบสายฟ้าพิฆาตศัตรูพ่าย วัดพุทธโมกข์ หลวงพ่อหนุน สุวิชชโย (๓) <br />
+สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ </b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/vwtsx1474988134.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๗</u></b><br />
+<font color="Magenta"><font size="5"><b>พระขรรค์ปรัชญะ วัดพุทธโมกข์ หลวงพ่อหนุน สุวิชชโย (๔) สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/smnvp1474988135.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๘</u></b><br />
+<font color="Magenta"><font size="5"><b>มีดหมอปากกา (๕) สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/ct9iz1474988135.jpg" border="0" alt="" /><img src="http://www.sapanboon.com/show/foo/5y29j1474988135.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๒๙</u></b><br />
+<font color="Magenta"><font size="5"><b>มีดหมอสาลิกา (๖) สละมาร่วมบุญโดยคุณฐิติ ชลแสนเจริญ</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/hj3781474988135.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<b><u>รายการที่ ๓๐</u></b><br />
+<font color="Magenta"><font size="5"><b>สมเด็จองค์ปฐม เนื้อชุบทอง วัดประตูด่าน</b></font></font><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/n26hz1474988593.jpg" border="0" alt="" /><br />
+<br />
+<font color="DarkOrange">วัตถุมงคลส่วนองค์ของพระครูวิลาศกาญจนธรรม, ดร. เจ้าอาวาสวัดท่าขนุน จ.กาญจนบุรี</font><br />
+<font size="5"><font color="Blue">มีจำนวน ๑ องค์</font><br />
+<font color="Red">ร่วมบูชาองค์ละ ๑,๐๐๐ บาท</font></font><br />
+<br />
+<font color="black"><b>___________________________</b></font><br />
+<br />
+<br />
+<font color="Red"><b><font size="6">ปรับปรุงข้อมูลเมื่อวันที่ ๒ ตุลาคม ๒๕๕๙ เวลา ๑๕.๕๘ น.</font></b></font><br />
+<br />
+<font size="5"><b><font color="Red"><img src="images/smilies/A4672615-5.gif" border="0" alt="" title="A4672615-5.gif" class="inlineimg" /> ทีมงานรับจองบูชาวัตถุมงคล<font color="Blue"><u>ทางหน้าเว็บเท่านั้น</u></font><br />
+<br />
+ท่านใดที่ต้องการจองวัตถุมงคล แต่ยังไม่ได้ลงทะเบียนยืนยันตัวตน  <br />
+สามารถไปยืนยันตัวตนตามที่แจ้งไว้ในกระทู้นี้ค่ะ<br />
+<a href="http://www.watthakhanun.com/webboard/showthread.php?t=3430" target="_blank">http://www.watthakhanun.com/webboard...ead.php?t=3430</a></font></b></font><br />
+<br />
+</div>
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				มารใช้ คนทุกคน ของทุกชิ้น สัตว์ทุกตัว เป็นเครื่องมือในการขวางเรา โดยเฉพาะคนที่เรารักมากที่สุด <br />
+(-/\-) (-/\-) (-/\-)
+			</div>
+		<!-- / sig -->
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174932" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174932"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ ตัวเล็ก ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">บัณฑิตมหาเศรษฐี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174932 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174932_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">ตัวเล็ก</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=220" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=220" rel="nofollow">หาข้อความทั้งหมดของคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174932 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174932 --><!-- post #174933 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174933" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174933" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174933&amp;postcount=27" target="new" rel="nofollow" id="postcount174933" name="27"><strong>27</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174933"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:19
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220&amp;dateline=1411450348" width="150" height="107" alt="ตัวเล็ก's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174933">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><span style="color: Darkorange;font-weight: bold;">ตัวเล็ก</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="ตัวเล็ก is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174933", true); </script>
+					
+				</div>
+
+				<div class="smallfont">กรรมการเว็บ - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Mar 2009</div>
+					
+					
+					<div>
+						ข้อความ: 5,555
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 68,068</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 226,064 ครั้ง ใน 9,522 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174933_220"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="ตัวเล็ก is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174933">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174933">
+			
+			<img src="http://www.sapanboon.com/show/foo/12wkq1474774828.jpg" border="0" alt="" /><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/mr3lv1474774834.jpg" border="0" alt="" /><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/120qy1475334483.jpg" border="0" alt="" /><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/8yw3h1475334492.jpg" border="0" alt="" /><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/c2rtg1475508306.jpg" border="0" alt="" /><br />
+<br />
+<img src="http://www.sapanboon.com/show/foo/o62yr1475508306.jpg" border="0" alt="" /><br />
+<br />
+<font size="4"><font color="black">___________________________</font></font><br />
+ <br />
+<b><u><font size="5"><font color="blue"> สามารถโอนเงินร่วมบุญตามกำลังศรัทธาหรือร่วมบูชาวัตถุมงคลได้ที่</font></font></u></b><br />
+<b><font color="green">ธนาคาร : ไทยพาณิชย์</font></b><br />
+<b><font color="purple">สาขา : All Seasons Place </font></b><br />
+<b><font color="red">เลขที่บัญชี : ๑๕๕-๒๒๕๕๙๓-๗ (155-225593-7)</font></b><br />
+<b><font color="blue">ชื่อบัญชี : นางสาวพัชรีภรณ์ หยกอุบล</font></b><br />
+<b><font color="darkred">โทรศัพท์ติดต่อ : ๐๘๘-๙๒๔๔-๒๔๔ (088-9244-244)</font></b><br />
+<b><font color="DarkOrange">อีเมล์ : <a href="mailto:sapanboon.channel@gmail.com">sapanboon.channel@gmail.com</a></font></b><br />
+ <br />
+<b><font size="4">(ขอความกรุณาในการโอนเงินควรมีเศษสตางค์เพื่อให้ง่ายในการตรวจสอบ เช่น ๒,๕๕๐.๕๙ บาท)</font></b>
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				มารใช้ คนทุกคน ของทุกชิ้น สัตว์ทุกตัว เป็นเครื่องมือในการขวางเรา โดยเฉพาะคนที่เรารักมากที่สุด <br />
+(-/\-) (-/\-) (-/\-)
+			</div>
+		<!-- / sig -->
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174933" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174933"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 3 คน ได้กล่าว "อนุโมทนา" กับคุณ ตัวเล็ก ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174933 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174933_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">ตัวเล็ก</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=220" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=220" rel="nofollow">หาข้อความทั้งหมดของคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174933 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174933 --><!-- post #174934 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174934" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174934" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174934&amp;postcount=28" target="new" rel="nofollow" id="postcount174934" name="28"><strong>28</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174934"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:19
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220&amp;dateline=1411450348" width="150" height="107" alt="ตัวเล็ก's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174934">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><span style="color: Darkorange;font-weight: bold;">ตัวเล็ก</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="ตัวเล็ก is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174934", true); </script>
+					
+				</div>
+
+				<div class="smallfont">กรรมการเว็บ - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Mar 2009</div>
+					
+					
+					<div>
+						ข้อความ: 5,555
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 68,068</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 226,064 ครั้ง ใน 9,522 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174934_220"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="ตัวเล็ก is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174934">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174934">
+			
+			<b><font color="Blue"><u>กติกาในการจอง</u></font></b><br />
+๑. ลงชื่อจองบูชาวัตถุมงคล<b><font color="Blue">หน้าเว็บเท่านั้น</font></b><br />
+๒. กรุณาใช้เลขไทยตามกติกาของเว็บ และเว้นวรรคระหว่างตัวเลขกับตัวหนังสือ<br />
+<br />
+<div style="margin:20px; margin-top:5px; ">
+	<div class="smallfont" style="margin-bottom:2px">อ้างอิง:</div>
+	<table cellpadding="6" cellspacing="0" border="0" width="100%">
+	<tr>
+		<td class="alt2" style="border:1px inset">
+			
+				<div>
+					ข้อความดั้งเดิมโดยคุณ <strong>สุธรรม</strong>
+					<a href="showthread.php?p=131119#post131119" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost.gif" border="0" alt="อ่านข้อความ" /></a>
+				</div>
+				<div style="font-style:normal"><img src="images/smilies/A4672615-5.gif" border="0" alt="" title="A4672615-5.gif" class="inlineimg" /> <font size="6"><font color="Blue"><b>ประกาศ...<br />
+<br />
+ตั้งแต่บัดนี้เป็นต้นไป ท่านที่จองวัตถุมงคลโดย<font color="Red">ใช้ภาษาไทยผิด</font> (เช่น บ้านวิริยบารมี เป็น บ้านวิริยะบารมี) หรือ<font color="Red">ใช้ตัวเลขอารบิก</font>แทนเลขไทย <font color="Red">ไม่เว้นวรรคระหว่างตัวเลขกับตัวหนังสือ </font>เป็นต้น จะโดนตัดสิทธิ์ในการจองทันทีครับ</b></font></font></div>
+			
+		</td>
+	</tr>
+	</table>
+</div>๓. กรุณา<b><font color="Red">อย่าแก้ไขข้อความหรือยอดจำนวนจองในข้อความเดิม</font></b> หากต้องการจองเพิ่ม รบกวนโพสต์ข้อความใหม่ โดยอ้างอิงข้อความเดิมเพื่อป้องกันการสับสน <br />
+๔. รายการวัตถุมงคลที่ถูกตัดสิทธิ์การจอง จะถูกนำมาลงเป็นรายการให้บูชาใหม่เพื่อให้ทุกท่านได้มาร่วมลงชื่อจองบูชาใหม่เป็นระยะ (<u>ไม่รับสำรองสิทธิ์การจอง</u>) และไม่จำเป็นต้องมาปล่อยสิทธิ์ที่หน้าเว็บ เพราะเจ้าหน้าที่มีระบบรองรับอยู่แล้ว หากต้องการสละสิทธิ์ เพียงแจ้งสละสิทธิ์ก็เพียงพอแล้ว<br />
+<b><font size="6">๕. เจ้าหน้าที่จะตัดยอดเดือนละ ๒ ครั้ง คือรอบแรกวันที่ ๑๕ และรอบสองวันที่ ๓๐ ของทุกเดือน <br />
+หากจองระหว่างวันที่ <font color="Red">๑-๑๕</font> กรุณา<font color="Red">ชำระเงินไม่เกินวันที่ ๑๕</font> ของทุกเดือน <br />
+หากจองระหว่างวันที่ <font color="Blue">๑๖-๓๐</font> กรุณา<font color="Blue">ชำระเงินไม่เกินวันที่ ๓๐</font> ของทุกเดือน เดือนที่มีวันที่ ๓๑ ถือเป็นรอบแรกของเดือนถัดไป<br />
+หากจองแล้วไม่ชำระตามกำหนด จะถือว่าท่าน<font color="red"><u>สละสิทธิ์</u></font></font></b><br />
+<b><font color="Red">๖. หากสมาชิกท่านใด แจ้งจองบูชาวัตถุมงคลไว้ แล้วมาแจ้งยกเลิกการจองในวันสุดท้ายที่ตัดยอดการโอน <font face="verdana">หรือลงชื่อจองบูชาวัตถุมงคล แล้วไม่โอนชำระตามกำหนด</font> จะถูกระงับการใช้งานเว็บวัดท่าขนุน เป็น<u>ระยะเวลา ๓ เดือน</u></font></b> <br />
+๗. การโอนเงินบูชาวัตถุมงคล กรุณารวบรวมไว้แล้วโอนรวบยอดเพียงครั้งเดียวต่อรายการจอง หากท่านใดทำผิดกติกา เงินที่โอนมาถือว่าเป็นเงินร่วมบุญตามศรัทธา <u><font color="Blue">โดยจะไม่คืนให้ไม่ว่ากรณีใด ๆ ทั้งสิ้น</font></u>และจะถูกระงับการใช้งานเว็บวัดท่าขนุน เป็น<u><b><font color="Red">ระยะเวลา ๓ เดือน</font></b></u><br />
+๘. กรุณา<font color="Magenta"><u><b>&quot;</b></u></font><b><font color="Magenta"><u>โอนเงิน&quot; และ &quot;แจ้งโอน&quot; ภายในวันที่ตัดยอด</u></font></b> หากแจ้งล่าช้า จะถือว่าท่าน<font color="red"><u><b>สละสิทธิ์</b></u></font><br />
+๙. การจัดส่งวัตถุมงคล ทางเจ้าหน้าที่จะจัดส่งเพียง ๑ ที่อยู่ ต่อ ๑ ชื่อผู้ใช้เท่านั้น และไม่สามารถจัดส่งร่วมกับกระทู้อื่น ๆ ได้ เนื่องจากเจ้าหน้าที่ที่ดำเนินการเป็นคนละชุดกัน<br />
+๑๐. การจัดส่งวัตถุมงคล จะ<u><font color="DarkOrange">จัดส่งเดือนละครั้ง</font></u> หลังจากสัปดาห์ที่พระอาจารย์มารับสังฆทานที่บ้านวิริยบารมี ดังนั้น รบกวนท่านสมาชิกอดทนรอสักนิด วัตถุมงคลจะถูกจัดส่งถึงท่านภายในเดือนถัดไป หรือตามที่เจ้าหน้าที่แจ้งไว้หน้ากระทู้บอกบุญกองบุญนั้น ๆ <br />
+๑๑. ท่านที่แจ้งความจำนงขอรับวัตถุมงคลที่บ้านวิริยบารมี <b><font color="Blue">กรุณาแจ้งชื่อ-นามสกุลของผู้ที่จะรับวัตถุมงคล</font></b>ด้วยทุกครั้ง <br />
+หากให้ผู้อื่นรับแทน กรุณาแจ้งชื่อ-นามสกุลของผู้รับแทนด้วย และเมื่อมารับ กรุณาแสดงบัตรประชาชนของท่านให้เจ้าหน้าที่ตรวจสอบด้วย<br />
+<font size="6"><b>๑๒. ท่านที่แจ้งความจำนงขอรับวัตถุมงคลที่บ้านวิริยบารมี กรุณามารับวัตถุมงคลภายใน ๒ เดือนถัดไป (นับจากวันที่จองบูชา)<br />
+เช่น จองบูชาเดือนตุลาคม กรุณามารับวัตถุมงคลภายในเดือนธันวาคม<br />
+หากเกินกว่านั้นถือว่าท่าน<u><font color="Red">สละสิทธิ์</font></u>ในการรับวัตถุมงคลรายการนั้น ๆ และขอความกรุณารักษาสิทธิ์และเวลาของท่านอย่างเคร่งครัด</b></font><br />
+๑๓. หากมีข้อสงสัย สอบถามเพิ่มเติมได้ที่เจ้าหน้าที่ที่ดูแลกระทู้นั้น ๆ ผ่านทางข้อความส่วนตัว หรือโทรศัพท์ที่แจ้งไว้ที่หน้าแรกของกระทู้ (กรุณาอ่านชื่อเจ้าหน้าที่ประจำกระทู้แต่ละกระทู้ก่อนติดต่อ) <br />
+๑๔. การตัดสินของเจ้าหน้าที่ที่ดูแลกระทู้ ถือเป็นที่สุด<br />
+<br />
+<b><u>ท่านใดโอนเงินแล้วกรุณาแจ้งข้อมูลเหล่านี้ทางหน้าเว็บ</u></b> <br />
+<br />
+<b><font color="blue">- ลำดับการจอง<br />
+- รายการวัตถุมงคลที่จองบูชา<br />
+- จำนวนเงิน วันและเวลาที่โอนเงิน<br />
+- วิธีรับวัตถุมงคล (รับที่บ้านวิริยบารมี หรือรับทางไปรษณีย์)</font></b><br />
+<br />
+ตัวอย่างการโพสต์แจ้ง<b><font color="Magenta">ขอรับพระที่บ้านวิริยบารมี</font></b> (เมื่อโอนเงินเรียบร้อยแล้ว)<br />
+<br />
+- ลำดับการจองที่ ๑<br />
+- จองบูชารายการที่ ๘ พระกริ่งปลดหนี้สองแผ่นดิน (ไทย - เนปาล) - เนื้อเงิน จำนวน ๑ องค์<br />
+- โอนเงินแล้วจำนวน ๖,๕๐๐.๕๙ บาท วันที่ ๑๕ ตุลาคม ๒๕๕๙ เวลา ๑๑.๑๙ น.<br />
+- ขอรับที่บ้านวิริยบารมี - นางสาวพัชรีภรณ์ หยกอุบล โทรศัพท์ ๐๘๘-๙๒๔๔-๒๔๔<br />
+<br />
+ตัวอย่างการโพสต์แจ้ง<b><font color="Magenta">ขอรับพระทางไปรษณีย์</font></b> (เมื่อโอนเงินเรียบร้อยแล้ว)<br />
+<br />
+- ลำดับการจองที่ ๑ <br />
+- จองบูชารายการที่ ๘ พระกริ่งปลดหนี้สองแผ่นดิน (ไทย - เนปาล) - เนื้อเงิน จำนวน ๑ องค์<br />
+- โอนเงินแล้วจำนวน ๖,๕๐๐.๕๙ บาท วันที่ ๑๕ ตุลาคม ๒๕๕๙ เวลา ๑๑.๑๙ น.<br />
+- ขอรับทางไปรษณีย์ - กรุณาส่ง - น.ส.พัชรีภรณ์ หยกอุบล ๗๗/๕๖ ราชเทวีทาวเวอร์ ถ.พญาไท แขวงทุ่งพญาไท เขตราชเทวี กทม. ๑๐๔๐๐<br />
+การรับทางไปรษณีย์ (รบกวนค่าจัดส่ง ๕๐ บาท)<br />
+<br />
+<b><u><font color="DarkRed">การรับวัตถุมงคล</font></u></b><br />
+<br />
+<font color="DarkRed"><b>๑. รับวัตถุมงคลที่บ้านวิริยบารมี</b></font><br />
+ท่านสามารถมารับวัตถุมงคลที่บ้านวิริยบารมีได้ใน<b><font color="DarkOrchid">วันเสาร์</font></b> และ <b><font color="Red">วันอาทิตย์</font></b>ที่พระอาจารย์มารับสังฆทานเท่านั้น <br />
+ช่วงเช้าตั้งแต่เวลา ๑๐.๐๐ น. - ๑๒.๐๐ น. และช่วงบ่ายตั้งแต่เวลา ๑๓.๐๐ น. - ๑๗.๓๐ น.<br />
+<br />
+แจ้ง <b>ชื่อ-นามสกุล</b>(จริงตามบัตรประชาชน) และ<b>เบอร์โทรศัพท์</b> (ใช้บัตรประชาชนเป็นหลักฐานในการรับพระ) <br />
+ <br />
+<b><font color="Red">กรุณามารับวัตถุมงคล<font size="5"><u>ภายใน ๒ เดือน</u></font>ถัดไป หากเกินกว่านั้นถือว่า<u>ท่านสละสิทธิ์</u>ในการรับวัตถุมงคลรายการนั้น ๆ<br />
+ขอความกรุณารักษาสิทธิ์และเวลาของท่านอย่างเคร่งครัด</font></b><br />
+<br />
+<b><font color="DarkRed">๒. รับทางไปรษณีย์</font></b><br />
+เมื่อท่านแจ้งรายละเอียดการชำระเงิน และข้อมูลการจองผ่านทางหน้าเว็บ หรือส่งทาง (pm) เรียบร้อยแล้ว<br />
+เจ้าหน้าที่จะทำการจัดส่งวัตถุมงคลของท่านในเดือนถัดไป<br />
+<br />
+หมายเหตุ... สำหรับการแจ้งชำระเงิน สามารถแจ้งทางข้อความส่วนตัว (pm) ถึง <b><font color="Blue">ตัวเล็ก</font></b> หรือ แจ้งทางอีเมล์ที่:<font color="orange">sapanboon.channel@gmail.com</font> ค่ะ<br />
+<br />
+ขออนุโมทนาในจิตอันเป็นกุศลของทุกท่าน
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				มารใช้ คนทุกคน ของทุกชิ้น สัตว์ทุกตัว เป็นเครื่องมือในการขวางเรา โดยเฉพาะคนที่เรารักมากที่สุด <br />
+(-/\-) (-/\-) (-/\-)
+			</div>
+		<!-- / sig -->
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174934" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174934"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ ตัวเล็ก ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">บัณฑิตมหาเศรษฐี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">สำราญใจ</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174934 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174934_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">ตัวเล็ก</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=220" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=220" rel="nofollow">หาข้อความทั้งหมดของคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174934 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174934 --><!-- post #174935 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174935" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174935" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174935&amp;postcount=29" target="new" rel="nofollow" id="postcount174935" name="29"><strong>29</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174935"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:19
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220&amp;dateline=1411450348" width="150" height="107" alt="ตัวเล็ก's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174935">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220"><span style="color: Darkorange;font-weight: bold;">ตัวเล็ก</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="ตัวเล็ก is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174935", true); </script>
+					
+				</div>
+
+				<div class="smallfont">กรรมการเว็บ - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Mar 2009</div>
+					
+					
+					<div>
+						ข้อความ: 5,555
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 68,068</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 226,064 ครั้ง ใน 9,522 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174935_220"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="ตัวเล็ก is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174935">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174935">
+			
+			<b><div align="center"><font color="Red"><font size="6"><img src="images/smilies/A4672615-5.gif" border="0" alt="" title="A4672615-5.gif" class="inlineimg" /> ขอความกรุณาท่านที่แจ้งรับวัตถุมงคลที่บ้านวิริยบารมี <br />
+มารับวัตถุมงคลของท่านภายในกำหนดรับสังฆทานบ้านวิริยบารมี <br />
+<font color="Blue"><u>เดือนธันวาคม ๒๕๕๙</u></font> นะคะ<br />
+<br />
+หากไม่สะดวก กรุณาแจ้งสถานะเป็นจัดส่งทางไปรษณีย์ค่ะ<br />
+เนื่องจากไม่สามารถเก็บวัตถุมงคลที่บ้านวิริยบารมีได้ เหตุจากการส่งคืนพื้นที่ค่ะ<br />
+<br />
+<img src="images/smilies/A4672615-5.gif" border="0" alt="" title="A4672615-5.gif" class="inlineimg" /> กระทู้นี้จะปิดรับร่วมบุญวันที่ <font color="blue">๒๕ ต.ค. เวลา ๒๔.๐๐ น.</font><br />
+ท่านใดโอนมาหลังจากนั้นถือว่าให้เงินเจ้าของบัญชีใช้ฟรีนะคะ</font></font><font size="6"><br />
+<br />
+<b><font color="Magenta">ขอบพระคุณและโมทนาค่ะ</font></b></font></div></b>
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				มารใช้ คนทุกคน ของทุกชิ้น สัตว์ทุกตัว เป็นเครื่องมือในการขวางเรา โดยเฉพาะคนที่เรารักมากที่สุด <br />
+(-/\-) (-/\-) (-/\-)
+			</div>
+		<!-- / sig -->
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174935" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174935"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ ตัวเล็ก ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">บัณฑิตมหาเศรษฐี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174935 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174935_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">ตัวเล็ก</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=220" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=220" rel="nofollow">หาข้อความทั้งหมดของคุณ ตัวเล็ก</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174935 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174935 --><!-- post #174936 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174936" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174936" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174936&amp;postcount=30" target="new" rel="nofollow" id="postcount174936" name="30"><strong>30</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174936"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:20
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174936">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=5188"><span style="color: DarkGoldenrod;font-weight: bold;">สัตยา</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="สัตยา is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174936", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้สนับสนุนเว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Nov 2012</div>
+					
+					
+					<div>
+						ข้อความ: 8
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 39</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 7,420 ครั้ง ใน 202 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174936_5188"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สัตยา is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174936">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174936">
+			
+			- ลำดับการจองที่ ๕<br />
+- จองบูชารายการที่ ๖ สมเด็จองค์ปฐม เนื้อเงิน วัดประตูด่าน<br />
+- โอนเงินแล้วจำนวน ๒,๐๐๐ บาท วันที่ ๓ ตุลาคม ๒๕๕๙ เวลา ๒๑.๕๑ น.<br />
+- ขอรับที่บ้านวิริยบารมี
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174936" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174936"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 9 คน ได้กล่าว "อนุโมทนา" กับคุณ สัตยา ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=220" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">ตัวเล็ก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">บัณฑิตมหาเศรษฐี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3337" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ปิยทัศน์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174936 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174936_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สัตยา</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=5188">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=5188" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สัตยา</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=5188" rel="nofollow">หาข้อความทั้งหมดของคุณ สัตยา</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174936 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174936 --><!-- post #174937 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174937" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174937" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174937&amp;postcount=31" target="new" rel="nofollow" id="postcount174937" name="31"><strong>31</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174937"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:26
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377&amp;dateline=1423765959" width="120" height="80" alt="สำราญใจ's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174937">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><span style="color: DarkGoldenrod;font-weight: bold;">สำราญใจ</span></a>
+					
+<img class="inlineimg" src="images/statusicon/user_online.gif" alt="สำราญใจ  ที่ออนไลน์ขณะนี้" border="0" />
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174937", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้สนับสนุนเว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Apr 2009</div>
+					
+					
+					<div>
+						ข้อความ: 16
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 12,051</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 6,198 ครั้ง ใน 218 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174937_377"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สำราญใจ is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174937">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174937">
+			
+			จองรายการที่ ๒๔ ครับ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174937" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174937"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 8 คน ได้กล่าว "อนุโมทนา" กับคุณ สำราญใจ ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">บัณฑิตมหาเศรษฐี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3337" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ปิยทัศน์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174937 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174937_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สำราญใจ</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=377" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=377" rel="nofollow">หาข้อความทั้งหมดของคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174937 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174937 --><!-- post #174941 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174941" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174941" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174941&amp;postcount=32" target="new" rel="nofollow" id="postcount174941" name="32"><strong>32</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174941"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:28
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2815"><img src="images/avatars/Onion17.jpg"   alt="ดวงกมล's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174941">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2815"><span style="font-weight: bold;">ดวงกมล</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="ดวงกมล is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174941", true); </script>
+					
+				</div>
+
+				<div class="smallfont">สมาชิก - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Oct 2010</div>
+					
+					
+					<div>
+						ข้อความ: 8
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 64</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 1,982 ครั้ง ใน 62 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174941_2815"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="ดวงกมล is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174941">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174941">
+			
+			จอง รายการที่ ๑๓, ๑๖, ๑๗, ๑๘ ค่ะ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174941" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174941"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ ดวงกมล ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174941 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174941_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">ดวงกมล</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2815">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=2815" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ ดวงกมล</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=2815" rel="nofollow">หาข้อความทั้งหมดของคุณ ดวงกมล</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174941 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174941 --><!-- post #174942 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174942" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174942" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174942&amp;postcount=33" target="new" rel="nofollow" id="postcount174942" name="33"><strong>33</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174942"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:28
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377&amp;dateline=1423765959" width="120" height="80" alt="สำราญใจ's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174942">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><span style="color: DarkGoldenrod;font-weight: bold;">สำราญใจ</span></a>
+					
+<img class="inlineimg" src="images/statusicon/user_online.gif" alt="สำราญใจ  ที่ออนไลน์ขณะนี้" border="0" />
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174942", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้สนับสนุนเว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Apr 2009</div>
+					
+					
+					<div>
+						ข้อความ: 16
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 12,051</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 6,198 ครั้ง ใน 218 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174942_377"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สำราญใจ is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174942">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174942">
+			
+			จองรายการที่ ๒๖ ครับ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174942" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174942"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ สำราญใจ ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174942 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174942_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สำราญใจ</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=377" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=377" rel="nofollow">หาข้อความทั้งหมดของคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174942 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174942 --><!-- post #174943 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174943" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174943" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174943&amp;postcount=34" target="new" rel="nofollow" id="postcount174943" name="34"><strong>34</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174943"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:28
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377&amp;dateline=1423765959" width="120" height="80" alt="สำราญใจ's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174943">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><span style="color: DarkGoldenrod;font-weight: bold;">สำราญใจ</span></a>
+					
+<img class="inlineimg" src="images/statusicon/user_online.gif" alt="สำราญใจ  ที่ออนไลน์ขณะนี้" border="0" />
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174943", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้สนับสนุนเว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Apr 2009</div>
+					
+					
+					<div>
+						ข้อความ: 16
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 12,051</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 6,198 ครั้ง ใน 218 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174943_377"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สำราญใจ is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174943">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174943">
+			
+			จองรายการที่ ๒๕ ครับ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174943" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174943"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ สำราญใจ ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174943 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174943_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สำราญใจ</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=377" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=377" rel="nofollow">หาข้อความทั้งหมดของคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174943 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174943 --><!-- post #174944 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174944" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174944" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174944&amp;postcount=35" target="new" rel="nofollow" id="postcount174944" name="35"><strong>35</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174944"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:28
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2815"><img src="images/avatars/Onion17.jpg"   alt="ดวงกมล's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174944">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2815"><span style="font-weight: bold;">ดวงกมล</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="ดวงกมล is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174944", true); </script>
+					
+				</div>
+
+				<div class="smallfont">สมาชิก - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Oct 2010</div>
+					
+					
+					<div>
+						ข้อความ: 8
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 64</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 1,982 ครั้ง ใน 62 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174944_2815"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="ดวงกมล is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174944">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174944">
+			
+			จอง รายการที่ ๒๙
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174944" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174944"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ ดวงกมล ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174944 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174944_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">ดวงกมล</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2815">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=2815" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ ดวงกมล</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=2815" rel="nofollow">หาข้อความทั้งหมดของคุณ ดวงกมล</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174944 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174944 --><!-- post #174945 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174945" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174945" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174945&amp;postcount=36" target="new" rel="nofollow" id="postcount174945" name="36"><strong>36</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174945"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:29
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570&amp;dateline=1383403786" width="100" height="90" alt="บัณฑิตมหาเศรษฐี's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174945">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570"><span style="color: DarkGoldenrod;font-weight: bold;">บัณฑิตมหาเศรษฐี</span></a>
+					
+<img class="inlineimg" src="images/statusicon/user_online.gif" alt="บัณฑิตมหาเศรษฐี  ที่ออนไลน์ขณะนี้" border="0" />
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174945", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้สนับสนุนเว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Aug 2010</div>
+					<div>สถานที่: สมุทรสาคร</div>
+					
+					<div>
+						ข้อความ: 23
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 50,606</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 14,322 ครั้ง ใน 403 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174945_2570"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="บัณฑิตมหาเศรษฐี is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174945">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174945">
+			
+			จอง ๒๒, ๒๕, ๒๖, ๒๗, ๒๘, ๒๙ ครับ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				<font color="Blue"><font size="4">คุก......มีไว้ขังคนกระทำผิด</font></font><font color="DarkRed"><br />
+<font size="4">โลก.....มีไว้ขังคนเห็นผิด</font></font>
+			</div>
+		<!-- / sig -->
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174945" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174945"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ บัณฑิตมหาเศรษฐี ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174945 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174945_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">บัณฑิตมหาเศรษฐี</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=2570" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ บัณฑิตมหาเศรษฐี</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=2570" rel="nofollow">หาข้อความทั้งหมดของคุณ บัณฑิตมหาเศรษฐี</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174945 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174945 --><!-- post #174947 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174947" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174947" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174947&amp;postcount=37" target="new" rel="nofollow" id="postcount174947" name="37"><strong>37</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174947"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:29
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377&amp;dateline=1423765959" width="120" height="80" alt="สำราญใจ's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174947">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><span style="color: DarkGoldenrod;font-weight: bold;">สำราญใจ</span></a>
+					
+<img class="inlineimg" src="images/statusicon/user_online.gif" alt="สำราญใจ  ที่ออนไลน์ขณะนี้" border="0" />
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174947", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้สนับสนุนเว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Apr 2009</div>
+					
+					
+					<div>
+						ข้อความ: 16
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 12,051</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 6,198 ครั้ง ใน 218 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174947_377"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สำราญใจ is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174947">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174947">
+			
+			จองรายการที่ ๒๙ ครับ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174947" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174947"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ สำราญใจ ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174947 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174947_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สำราญใจ</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=377" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=377" rel="nofollow">หาข้อความทั้งหมดของคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174947 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174947 --><!-- post #174948 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174948" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174948" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174948&amp;postcount=38" target="new" rel="nofollow" id="postcount174948" name="38"><strong>38</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174948"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:30
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174948">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=7476"><span style="font-weight: bold;">หญิงใจใส</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="หญิงใจใส is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174948", true); </script>
+					
+				</div>
+
+				<div class="smallfont">สมาชิก - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: May 2015</div>
+					
+					
+					<div>
+						ข้อความ: 7
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 1,987</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 1,972 ครั้ง ใน 67 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174948_7476"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="หญิงใจใส is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174948">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174948">
+			
+			จองรายการ ๒๗ - ๒๘
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174948" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174948"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ หญิงใจใส ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174948 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174948_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">หญิงใจใส</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=7476">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=7476" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ หญิงใจใส</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=7476" rel="nofollow">หาข้อความทั้งหมดของคุณ หญิงใจใส</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174948 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174948 --><!-- post #174949 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174949" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->
+
+
+
+<table class="tborder" id="post174949" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174949&amp;postcount=39" target="new" rel="nofollow" id="postcount174949" name="39"><strong>39</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174949"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:30
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174949">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=139"><span style="font-weight: bold;">พิมลวรรณ</span></a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="พิมลวรรณ is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174949", true); </script>
+					
+				</div>
+
+				<div class="smallfont">สมาชิก - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Feb 2009</div>
+					
+					
+					<div>
+						ข้อความ: 7
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 169</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 4,294,967,295 ครั้ง ใน 142 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174949_139"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="พิมลวรรณ is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174949">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174949">
+			
+			รายการที่ ๒๕, ๒๖, ๒๗, ๒๘
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174949" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174949"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 6 คน ได้กล่าว "อนุโมทนา" กับคุณ พิมลวรรณ ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6767" rel="nofollow"><span style="font-weight: bold;">ทองแท้</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=109" rel="nofollow"><span style="font-weight: bold;">ปราโมทย์</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174949 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174949_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">พิมลวรรณ</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=139">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=139" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ พิมลวรรณ</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=139" rel="nofollow">หาข้อความทั้งหมดของคุณ พิมลวรรณ</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174949 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174949 --><!-- post #174952 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+	<div id="edit174952" style="padding:0px 0px 6px 0px">
+	
+
+
+
+<table class="tborder" id="post174952" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="thead" >
+		<div class="normal" style="float:right">
+			&nbsp;
+			#<a href="showpost.php?s=f455eb705250c41cd3d313991905f4d8&amp;p=174952&amp;postcount=40" target="new" rel="nofollow" id="postcount174952" name="40"><strong>40</strong></a> &nbsp;
+			
+			
+			
+			
+			
+		</div>
+
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post174952"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="เก่า" border="0" /></a>
+			
+				วันนี้, 22:32
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt2" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="6" border="0" width="100%">
+		<tr>
+			<td class="alt2"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><img src="image.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377&amp;dateline=1423765959" width="120" height="80" alt="สำราญใจ's Avatar" border="0" /></a></td>
+			<td nowrap="nowrap">
+
+				<div id="postmenu_174952">
+					
+					<a class="bigusername" href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><span style="color: DarkGoldenrod;font-weight: bold;">สำราญใจ</span></a>
+					
+<img class="inlineimg" src="images/statusicon/user_online.gif" alt="สำราญใจ  ที่ออนไลน์ขณะนี้" border="0" />
+
+					<script type="text/javascript"> vbmenu_register("postmenu_174952", true); </script>
+					
+				</div>
+
+				<div class="smallfont">ผู้สนับสนุนเว็บวัดท่าขนุน - ยืนยันตัวตนแล้ว</div>
+				
+				
+
+			</td>
+			<td width="100%">&nbsp;</td>
+			<td valign="top" nowrap="nowrap">
+
+				<div class="smallfont">
+					<div>วันที่สมัคร: Apr 2009</div>
+					
+					
+					<div>
+						ข้อความ: 16
+					</div>
+					 
+	<div>ได้ให้อนุโมทนา: 12,051</div>
+	<div>
+		
+			
+				ได้รับอนุโมทนา 6,198 ครั้ง ใน 218 โพสต์
+			
+		
+	</div>
+
+					
+					<div><span id="repdisplay_174952_377"><img class="inlineimg" src="images/reputation/reputation_pos.gif" alt="สำราญใจ is on a distinguished road" border="0" /></span></div>
+					
+					<div>    </div>
+				</div>
+
+			</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	
+	<td class="alt1" id="td_post_174952">
+		
+	<!-- message, attachments, sig -->
+
+		
+
+		
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				
+			</div>
+			<hr size="1" style="color:#998049; background-color:#998049" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_174952">
+			
+			จองรายการที่ ๑๘ ครับ
+		</div>
+		<!-- / message -->
+
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		<div style="margin-top: 10px" align="right">
+			<!-- controls -->
+			
+			
+			
+				<a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;p=174952" rel="nofollow"><img src="images/buttons/quote.gif" alt="ตอบพร้อมอ้างอิงข้อความเดิม" border="0" /></a>
+			
+			
+			
+			
+			
+			
+			
+				
+			
+			
+			<!-- / controls -->
+		</div>
+
+	<!-- message, attachments, sig -->
+
+	</td>
+</tr>
+</table>
+ <div id="post_thanks_box_174952"><div style="padding:6px 0px 0px 0px">
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tr>
+			<td class="alt2" style="padding:0px">
+				
+					<strong>สมาชิก 5 คน ได้กล่าว "อนุโมทนา" กับคุณ สำราญใจ ในข้อความที่เขียนด้านบน</strong>
+				
+			</td>
+			
+			
+		</tr>
+		<tr><td class="alt1" colspan="3">				<!-- Collapsible List Of Thanked -->
+				
+					<div> <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3033" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">ข้าแผ่นดิน</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=38" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">เถรี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6169" rel="nofollow"><span style="color: Darkorange;font-weight: bold;">นายกระรอก</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=2570" rel="nofollow"><span style="color: DarkGoldenrod;font-weight: bold;">บัณฑิตมหาเศรษฐี</span></a>&nbsp;(วันนี้), <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640" rel="nofollow"><span style="font-weight: bold;">ออมสิน</span></a>&nbsp;(วันนี้)</div>
+				
+				<!-- Collapsible List Of Thanked --></td></tr>
+	</table>
+</div></div>
+
+ 
+<!-- post 174952 popup menu -->
+<div class="vbmenu_popup" id="postmenu_174952_menu" style="display:none;">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">สำราญใจ</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377">ดูรายละเอียดของ</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newpm&amp;u=377" rel="nofollow">ส่งข้อความส่วนตัวถึงคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=finduser&amp;u=377" rel="nofollow">หาข้อความทั้งหมดของคุณ สำราญใจ</a></td></tr>
+	
+	
+	
+	</table>
+</div>
+<!-- / post 174952 popup menu -->
+
+
+
+	</div>
+	
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #174952 --><div id="lastpost"></div></div>
+
+<!-- start content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+<!-- / start content table -->
+
+<!-- controls below postbits -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:-3px">
+<tr valign="top">
+	
+		<td class="smallfont"><a href="newreply.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=newreply&amp;noquote=1&amp;p=174952" rel="nofollow"><img src="images/buttons/reply.gif" alt="ตอบ" border="0" /></a></td>
+	
+	
+		<td align="right"><div class="pagenav" align="right">
+<table class="tborder" cellpadding="3" cellspacing="1" border="0">
+<tr>
+	<td class="vbmenu_control" style="font-weight:normal"><font color="#FFFFFF">หน้าที่ 2 จากทั้งหมด 3 หน้า</font></td>
+	
+	<td class="alt1"><a rel="prev" class="smallfont" href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236" title="หน้าที่ผ่านมา - Results 1 to 20 of 44">&lt;</a></td>
+	<td class="alt1"><a class="smallfont" href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236" title="แสดงผล 1 to 20 of 44">1</a></td>	<td class="alt2"><span class="smallfont" title="Showing results 21 to 40 of 44"><strong>2</strong></span></td>
+ <td class="alt1"><a class="smallfont" href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236&amp;page=3" title="แสดงผล 41 to 44 of 44">3</a></td>
+	<td class="alt1"><a rel="next" class="smallfont" href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236&amp;page=3" title="หน้าถัดไป - Results 41 to 44 of 44">&gt;</a></td>
+	
+	
+</tr>
+</table>
+</div>
+		
+		</td>
+	
+</tr>
+</table>
+<!-- / controls below postbits -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- next / previous links -->
+	<br />
+	<div class="smallfont" align="center">
+		<strong>&laquo;</strong>
+			<a href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236&amp;goto=nextoldest" rel="nofollow">กระทู้ที่แล้วมา</a>
+			|
+			<a href="showthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236&amp;goto=nextnewest" rel="nofollow">กระทู้ถัดไป</a>
+		<strong>&raquo;</strong>
+	</div>
+<!-- / next / previous links -->
+
+
+
+<!-- currently active users -->
+	<br />
+	<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+	<tr>
+		<td class="tcat" colspan="2">
+			ขณะนี้มีคนกำลังดูกระทู้นี้อยู่ : 8 คน <span class="normal">( เป็นสมาชิก 6 คน  และ บุคคลทั่วไป 2 คน )</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="alt1" colspan="2">
+			<span class="smallfont"><a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=6618"><span style="font-weight: bold;">ไชยเชษฐ์</span></a>, <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=8173"><span style="font-weight: bold;">ธรรมภัทรเนตร</span></a>, <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=3502"><span style="font-weight: bold;">พี่เสือ</span></a>, <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=377"><span style="color: DarkGoldenrod;font-weight: bold;">สำราญใจ</span></a>, <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=5800"><span style="font-weight: bold;">หนังแผ่นเดียว</span></a>, <a href="member.php?s=f455eb705250c41cd3d313991905f4d8&amp;u=4640"><span style="font-weight: bold;">ออมสิน</span></a></span>
+		</td>
+	</tr>
+	</table>
+<!-- end currently active users -->
+
+
+
+
+
+<!-- controls for non-popup browsers -->
+
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center" style="border-top-width:0px">
+<tr>
+	<td class="thead" colspan="2">คำสั่งเพิ่มเติม<a name="goto_threadtools"></a></td>
+	
+</tr>
+<tr valign="top">
+	<td class="alt1" colspan="2">
+
+	<!-- thread tools -->
+	<div class="smallfont">
+		
+
+			<div><img class="inlineimg" src="images/buttons/printer.gif" alt="แสดงผลสำหรับที่จะ Print" vspace="1" /> <a href="printthread.php?s=f455eb705250c41cd3d313991905f4d8&amp;t=5236" rel="nofollow">แสดงผลสำหรับที่จะ Print</a></div>
+			<div><img class="inlineimg" src="images/buttons/sendtofriend.gif" alt="ส่งกระทู้นี้ให้เพื่อนทาง Email" vspace="1" /> <a href="sendmessage.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=sendtofriend&amp;t=5236" rel="nofollow">ส่งกระทู้นี้ให้เพื่อนทาง Email</a></div>
+		
+		
+		
+	</div>
+	<!-- / thread tools -->
+
+	</td>
+	
+</tr>
+
+</table>
+<br />
+
+
+<!-- / controls for non-popup browsers -->
+
+
+<!-- forum rules and admin links -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+<tr valign="bottom">
+	<td width="100%" valign="top">
+		<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="210">
+<thead>
+<tr>
+	<td class="thead">
+		<a style="float:right" href="#top" onclick="return toggle_collapse('forumrules')"><img id="collapseimg_forumrules" src="images/buttons/collapse_thead.gif" alt="" border="0" /></a>
+		กฎการส่งข้อความ
+	</td>
+</tr>
+</thead>
+<tbody id="collapseobj_forumrules" style="">
+<tr>
+	<td class="alt1" nowrap="nowrap"><div class="smallfont">
+		
+		<div>You <strong>may not</strong> post new threads</div>
+		<div>You <strong>may not</strong> post replies</div>
+		<div>You <strong>may not</strong> post attachments</div>
+		<div>You <strong>may not</strong> edit your posts</div>
+		<hr />
+		
+		<div><a href="misc.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=bbcode" target="_blank">BB code</a> is <strong>ใช้ได้</strong></div>
+		<div><a href="misc.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=showsmilies" target="_blank">Smilies</a> are <strong>ใช้ได้</strong></div>
+		<div><a href="misc.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>ใช้ได้</strong></div>
+		<div>HTML code is <strong>งดใช้</strong></div>
+		<hr />
+		<div><a href="misc.php?s=f455eb705250c41cd3d313991905f4d8&amp;do=showrules" target="_blank">Forum Rules</a></div>
+	</div></td>
+</tr>
+</tbody>
+</table>
+	</td>
+	<td class="smallfont" align="right">
+		<table cellpadding="0" cellspacing="0" border="0">
+		
+		<tr>
+			<td>
+			<div class="smallfont" style="text-align:left; white-space:nowrap">
+	<form action="forumdisplay.php" method="get">
+	<input type="hidden" name="s" value="f455eb705250c41cd3d313991905f4d8" />
+	<input type="hidden" name="daysprune" value="" />
+	<strong>Forum Jump</strong><br />
+	<select name="f" onchange="this.form.submit();">
+		<optgroup label="Site Areas">
+			<option value="cp" >แผงควบคุมของตัวเอง</option>
+			<option value="pm" >ข้อความส่วนตัว</option>
+			<option value="subs" >ติดตามอ่าน</option>
+			<option value="wol" >ใครกำลังใช้ระบบ</option>
+			<option value="search" >ค้นหาในห้อง</option>
+			<option value="home" >Forums Home</option>
+		</optgroup>
+		
+		<optgroup label="ห้อง">
+		<option value="29" class="fjdpth0" > ประกาศ!!! กฎ กติกา มารยาทในการใช้กระดานสนทนา</option>
+<option value="30" class="fjdpth1" >&nbsp; &nbsp;  กฎ กติกา มารยาทในการใช้กระดานสนทนา</option>
+<option value="28" class="fjdpth1" >&nbsp; &nbsp;  ประกาศจากเว็บไซต์วัดท่าขนุน</option>
+<option value="36" class="fjdpth1" >&nbsp; &nbsp;  ศาลาพักใจ</option>
+<option value="27" class="fjdpth0" > ห้องบูรพาจารย์</option>
+<option value="17" class="fjdpth1" >&nbsp; &nbsp;  พระครูสุวรรณเสลาภรณ์ (หลวงปู่สาย อคฺควํโส)</option>
+<option value="21" class="fjdpth1" >&nbsp; &nbsp;  ประวัติและปฏิปทาของพระสุปฏิปันโน</option>
+<option value="24" class="fjdpth0" > ห้องธรรมะพระอาจารย์</option>
+<option value="18" class="fjdpth1" >&nbsp; &nbsp;  พระครูวิลาศกาญจนธรรม (หลวงพ่อเล็ก สุธมฺมปญฺโญ)</option>
+<option value="39" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เทศน์ช่วงทำกรรมฐาน</option>
+<option value="40" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เทศน์ในวาระสำคัญต่าง ๆ</option>
+<option value="44" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ปกิณกธรรมจากเกาะพระฤๅษี</option>
+<option value="41" class="fjdpth1" >&nbsp; &nbsp;  เรื่องเล่าต่าง ๆ โดยพระครูวิลาศกาญจนธรรม (หลวงพ่อเล็ก สุธมฺมปญฺโญ)</option>
+<option value="25" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  อดีตที่ผ่านพ้น</option>
+<option value="60" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  กระโถนข้างธรรมาสน์</option>
+<option value="42" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ใต้ฟ้าอิระวดี</option>
+<option value="45" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ล่องแก่งมหาภัย</option>
+<option value="48" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เส้นทางพระโพธิสัตว์</option>
+<option value="57" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  มิงกะละบาร์ เมียนมาร์</option>
+<option value="58" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  มหาเศรษฐีไปบรมพุทโธ</option>
+<option value="59" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ซัวสะเดย..เนียงลออ</option>
+<option value="61" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  อีหรอบเดียวกัน</option>
+<option value="62" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  สนุกสนานวุ่นวายในเนปาล</option>
+<option value="63" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ปลดหนี้ที่เนปาล</option>
+<option value="47" class="fjdpth1" >&nbsp; &nbsp;  เก็บตกจากบ้านวิริยบารมี</option>
+<option value="26" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เก็บตกจากบ้านอนุสาวรีย์</option>
+<option value="19" class="fjdpth0" > ห้องธรรมะ เรื่องราวในอดีต และสรรพวิชา</option>
+<option value="2" class="fjdpth1" >&nbsp; &nbsp;  กระทู้ธรรม</option>
+<option value="43" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ธรรมที่นำไปสู่ความหลุดพ้น รวบรวมโดย พล.ต.ท.นพ.สมศักดิ์ สืบสงวน</option>
+<option value="12" class="fjdpth1" >&nbsp; &nbsp;  เรื่องราวในอดีต และสรรพวิชา</option>
+<option value="9" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  อักขระและคาถาอาคม</option>
+<option value="11" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  เคล็ดวิชาต่าง ๆ</option>
+<option value="22" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ยาแผนไทย</option>
+<option value="20" class="fjdpth1" >&nbsp; &nbsp;  เรื่องธรรมะ และการปฏิบัติ</option>
+<option value="51" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ฝากคำถามถึงหลวงพ่อ</option>
+<option value="4" class="fjdpth0" > ห้องภาพ</option>
+<option value="13" class="fjdpth1" >&nbsp; &nbsp;  ภาพวัดท่าขนุน</option>
+<option value="14" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ภาพกิจกรรมต่าง ๆ ของวัดและหลวงพ่อ</option>
+<option value="15" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ภาพสัตว์ต่าง ๆ ภายในวัด</option>
+<option value="53" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  วัตถุมงคลของหลวงพ่อ</option>
+<option value="16" class="fjdpth1" >&nbsp; &nbsp;  ภาพอื่น ๆ</option>
+<option value="1" class="fjdpth0" > ข่าวประชาสัมพันธ์</option>
+<option value="7" class="fjdpth1" >&nbsp; &nbsp;  ข่าวประชาสัมพันธ์วัดท่าขนุน</option>
+<option value="64" class="fjsel" selected="selected">&nbsp; &nbsp;  สะพานบุญ</option>
+<option value="37" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  บูชาวัตถุมงคลจากวัดท่าขนุน</option>
+<option value="46" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  สั่งซื้อหนังสือธรรมะจากวัดท่าขนุน</option>
+<option value="32" class="fjdpth0" > เรื่องทั่วไป</option>
+<option value="3" class="fjdpth1" >&nbsp; &nbsp;  คุยเรื่องทั่วไป</option>
+<option value="54" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  นิทานเซน</option>
+<option value="56" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  หยุดความเลว...ที่..ไล่ล่าคุณ</option>
+<option value="52" class="fjdpth1" >&nbsp; &nbsp;  เรื่องน่าอ่าน</option>
+<option value="49" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ผจญกรรม</option>
+<option value="23" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ป้าเม้า เล่ากระจาย</option>
+<option value="33" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  ทิดเต๋าเผาพระอาจารย์</option>
+<option value="35" class="fjdpth2" >&nbsp; &nbsp; &nbsp; &nbsp;  หมื่นลี้ แสนไมล์</option>
+<option value="34" class="fjdpth1" >&nbsp; &nbsp;  ห้องสวดมนต์</option>
+
+		</optgroup>
+		
+	</select><input type="submit" class="button" value="Go"  />
+	</form>
+</div>
+			</td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+<!-- /forum rules and admin links -->
+
+<br />
+
+
+
+
+
+<br />
+<div class="smallfont" align="center">เวลาทั้งหมดอยู่ในเขตเวลา GMT +7 และเวลาในขณะนี้คือ <span class="time">23:23</span> </div>
+<br />
+
+
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+<!-- /content area table -->
+
+<form action="index.php" method="get">
+
+<table cellpadding="6" cellspacing="0" border="0" width="100%" class="page" align="center">
+<tr>
+	
+	
+		<td class="tfoot">
+			<select name="langid" onchange="switch_id(this, 'lang')">
+				<optgroup label="Quick Language Chooser">
+					<option value="1" class="" >-- English (US)</option>
+<option value="2" class="" selected="selected">-- Thai</option>
+
+				</optgroup>
+			</select>
+		</td>
+	
+	<td class="tfoot" align="right" width="100%">
+		<div class="smallfont">
+			<strong>
+				<a href="sendmessage.php?s=f455eb705250c41cd3d313991905f4d8" rel="nofollow" accesskey="9">ติดต่อทีมงาน</a> -
+				<a href="http://www.watthakhanun.com">วัดท่าขนุน อ.ทองผาภูมิ จ.กาญจนบุรี</a> -
+				
+				
+				<a href="archive/index.php">เอกสารเก่า</a> -
+				
+				<a href="#top" onclick="self.scrollTo(0, 0); return false;">ไปบนสุด</a>
+			</strong>
+		</div>
+	</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+	<div class="smallfont" align="center">
+	<!-- Do not remove this copyright notice -->
+	<BR>ค้นหาในเว็บวัดท่าขนุน <BR>
+<IFRAME allowtransparency="true" SRC="../search.html"  FRAMEBORDER=0 SCROLLING=NO></IFRAME>
+<BR>เว็บวัดท่าขนุน Powered by vBulletin<br>Copyright &copy; 2000-2010 Jelsoft Enterprises Limited.
+
+
+	<!-- Do not remove this copyright notice -->
+	</div>
+
+	<div class="smallfont" align="center">
+	<!-- Do not remove  or your scheduled tasks will cease to function -->
+	
+	<!-- Do not remove  or your scheduled tasks will cease to function -->
+
+	<b><Marquee>ความคิดเห็นส่วนตัวทุก ๆ ข้อความในเว็บบอร์ดนี้ สงวนสิทธิ์เฉพาะเจ้าของข้อความ ไม่อนุญาตให้คัดลอกออกไปเผยแพร่ นอกจากจะได้รับคำอนุญาตจากเจ้าของข้อความอย่างชัดเจนดีแล้ว</b></Marquee>
+	</div>
+</div>
+
+</form>
+
+
+
+
+<script type="text/javascript">
+<!--
+	// Main vBulletin Javascript Initialization
+	vBulletin_init();
+//-->
+</script>
+
+<!-- temp -->
+<div style="display:none">
+	<!-- thread rate -->
+	
+		
+	
+	<!-- / thread rate -->
+</div>
+
+</body>
+</html>
